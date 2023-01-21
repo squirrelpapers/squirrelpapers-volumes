@@ -51,6 +51,11 @@ TBD
 * DOI: 10.5281/zenodo.3742185
 * Wikidata: Q89659767
 
+#2 QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins
+* F. Thiery; T. Homburg
+* DOI: 10.5281/zenodo.3719127
+* ISBN: 978-3-00-065006-2
+
 ### 2020:(2)2 => SI: Data & Software
 
 #1 Linked Open Samian Ware
