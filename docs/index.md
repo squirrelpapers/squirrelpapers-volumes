@@ -220,20 +220,20 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 ### 2023:(5)1
 
-#1 Irish Ogham Stones in Wikidata and Open Street Map
+**#1 Irish Ogham Stones in Wikidata and Open Street Map**
 * F. Thiery; P. Thiery
 * DOI: TBD
 
 ### 2023:(5)2 => SI: Data & Software
 
-#1 Ogham Stone Maps: Squirrel Stones in Ireland
+**#1 Ogham Stone Maps: Squirrel Stones in Ireland**
 * F. Thiery
 * DOI: 10.5281/zenodo.7544117
 * Wikidata: Q116235655
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
-TBD
+*TBD*
 
 # Wikidata
 
