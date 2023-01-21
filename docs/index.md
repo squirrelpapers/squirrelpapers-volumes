@@ -6,6 +6,10 @@
 > * Wikidata: Q89658875
 > * [squirrelpapers.net](https://squirrelpapers.net)
 
+## Volumes
+
+> * [Volume 1: 2019](#volume-1)
+
 ## Volume 1
 
 ### 2019:(1)1
