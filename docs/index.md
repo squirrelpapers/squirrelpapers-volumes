@@ -1,24 +1,24 @@
 # Squirrel Papers
 
-## Volume 1 (2019)
+## Volume 1
 
 ### 2019:(1)1
 
 #1 Hic sunt dracones! The modern unknown data dragons
-Florian Thiery; Martina Trognitz; Ethan Gruber; David Wigg-Wolf
-https://doi.org/10.5281/zenodo.3345715
+* Florian Thiery; Martina Trognitz; Ethan Gruber; David Wigg-Wolf
+* https://doi.org/10.5281/zenodo.3345715
 
 #2 Archaeology 4.0: Archaeology in the Third Era of Computing
-Florian Thiery
-https://doi.org/10.5281/zenodo.2629595
+* Florian Thiery
+* https://doi.org/10.5281/zenodo.2629595
 
 #3 Sphere 7 Data: LOUD and FAIR Data for the Research Community
-Florian Thiery
-https://doi.org/10.5281/zenodo.2643469
+* Florian Thiery
+* https://doi.org/10.5281/zenodo.2643469
 
 #4 topi.link: the northern and southern ontology
-Florian Thiery
-https://doi.org/10.5281/zenodo.2635490
+* Florian Thiery
+* https://doi.org/10.5281/zenodo.2635490
 
 ### 2019:(1)2 => SI: Conferences 2019
 
@@ -28,48 +28,48 @@ TBD
 
 TBD
 
-## Volume 2 (2020)
+## Volume 2
 
 ### 2020:(2)1
 
 #1 The SPARQL Unicorn: An introduction
-Thiery, F.; Schmidt S.C.; Homburg, T.; Trognitz, M.
-DOI: 10.5281/zenodo.3742185
-Wikidata: Q89659767
+* Thiery, F.; Schmidt S.C.; Homburg, T.; Trognitz, M.
+* DOI: 10.5281/zenodo.3742185
+* Wikidata: Q89659767
 
 ### 2020:(2)2 => SI: Data & Software
 
 #1 Linked Open Samian Ware
-F. Thiery; A.W. Mees; D. Gottwald
-https://doi.org/10.5281/zenodo.4305708
+* F. Thiery; A.W. Mees; D. Gottwald
+* https://doi.org/10.5281/zenodo.4305708
 
 #2 Linked Open Samian Ware [RGZM/samian-lod: 2020-12-04]
-F. Thiery; A.W. Mees; D. Gottwald
-https://doi.org/10.5281/zenodo.4305709
+* F. Thiery; A.W. Mees; D. Gottwald
+* https://doi.org/10.5281/zenodo.4305709
 
 #3 Linked Open Samian Ware [RGZM/samian-lod: 2020-12-10]
-F. Thiery; A.W. Mees; D. Gottwald
-https://doi.org/10.5281/zenodo.4314355
+* F. Thiery; A.W. Mees; D. Gottwald
+* https://doi.org/10.5281/zenodo.4314355
 
 ### 2020:(2)3 => SI: Conferences
 
 TBD
 
-## Volume 3 (2021)
+## Volume 3
 
 ### 2021:(3)1 => SI: NFDI & ARS3D
 
 #1 Digitale Vernetzung von Sammlungsdaten
-Allard W. Mees; Florian Thiery; Bernhard Weisser
-https://doi.org/10.5281/zenodo.5810310
+* Allard W. Mees; Florian Thiery; Bernhard Weisser
+* https://doi.org/10.5281/zenodo.5810310
 
 #2 African Red Slip Ware digital (ARS3D) - The Portal
-Florian Thiery; Louise Rokohl
-https://doi.org/10.5281/zenodo.5646897
+* Florian Thiery; Louise Rokohl
+* https://doi.org/10.5281/zenodo.5646897
 
 #3 Linked Open African Red Slip Ware
-Florian Thiery; Louise Rokohl
-https://doi.org/10.5281/zenodo.5722941
+* Florian Thiery; Louise Rokohl
+* https://doi.org/10.5281/zenodo.5722941
 
 ### 2021:(3)2
 
@@ -78,123 +78,122 @@ TBD
 ### 2021:(3)3 => SI: Data & Software
 
 #1 Ceramic Typologies Ontology (CeraTyOnt)
-F. Thiery; A.W. Mees
-https://doi.org/10.5281/zenodo.5767082
+* F. Thiery; A.W. Mees
+* https://doi.org/10.5281/zenodo.5767082
 
 #2 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.1
-F. Thiery; A.W. Mees
-https://doi.org/10.5281/zenodo.5767083
+* F. Thiery; A.W. Mees
+* https://doi.org/10.5281/zenodo.5767083
 
 ### 2021:(3)4 => SI: Conferences
 
 TBD
 
-## Volume 4 (2022)
+## Volume 4
 
 ### 2022:(4)1
 
 #1 African Red Slip Ware - Additional Iconography Catalogue
-Florian Thiery
-DOI: 10.5281/zenodo.6386603
-Wikidata: Q111370392
+* Florian Thiery
+* DOI: 10.5281/zenodo.6386603
+* Wikidata: Q111370392
 
 #2 How to handle vagueness and uncertainty in graph-based LOD knowledge modelling? Dealing with archaeological numismatic and ceramological real world data.
-F. Thiery; A.W. Mees; K. Tolle; D.G. Wolf
-https://doi.org/10.5281/zenodo.xyz
+* F. Thiery; A.W. Mees; K. Tolle; D.G. Wolf
+* https://doi.org/10.5281/zenodo.xyz
 
 #3 Master-Thesis alt
 
 #4 Master-Thesis new
 
 #5 Software Review for the Software PointSamplingTool (Archäologische Informationen 44, Early View, published online 18 Nov 2022)
-Thiery, F., Homburg, T., Klammt, A. & Schmidt, S.C. 
-DOI: 10.5281/zenodo.7337817
+* Thiery, F., Homburg, T., Klammt, A. & Schmidt, S.C. 
+* DOI: 10.5281/zenodo.7337817
 
 ### 2022:(4)2 => SI: Data & Software
 
 #1 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.2
-F. Thiery; A.W. Mees
-https://doi.org/10.5281/zenodo.7143098
+* F. Thiery; A.W. Mees
+* https://doi.org/10.5281/zenodo.7143098
 
 #2 CeraTyOnt @ AMT - Version v1.0
-F. Thiery; A.W. Mees
-https://doi.org/10.5281/zenodo.7143094
+* F. Thiery; A.W. Mees
+* https://doi.org/10.5281/zenodo.7143094
 
 #3 Linked Pipe: Linked Open Samian Ware
-F. Thiery, T. Homburg, M. Trognitz
-https://doi.org/10.5281/zenodo.5779053
+* F. Thiery, T. Homburg, M. Trognitz
+* https://doi.org/10.5281/zenodo.5779053
 
 ### 2022:(4)3 => SI: Conferences
 
 #1 How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
-C. Schmid; S.C. Schmidt; F. Thiery
-https://github.com/sslarch/caa2022_GitGitHub_workshop
+* C. Schmid; S.C. Schmidt; F. Thiery
+* https://github.com/sslarch/caa2022_GitGitHub_workshop
 
 #2 Linked Pipes @ CAA SIG SSLA Meeting
-F. Thiery; T. Homburg
-DOI TBD
+* F. Thiery; T. Homburg
+* DOI TBD
 
 #3 Linked Pipes @ Pelagios Network Annotation Activity Meeting
-F. Thiery; T. Homburg
-DOI TBD
+* F. Thiery; T. Homburg
+* DOI TBD
 
 #4 ARS3D: Close to the Original-Erfassung archäologischer Objekte und ihre webbasierte semantisch modellierte Bereitstellung zur fachwissenschaftlichen Analyse
-F. Thiery; L. Raddatz; F. Boochs
-10.5281/zenodo.5942833
+* F. Thiery; L. Raddatz; F. Boochs
+* 10.5281/zenodo.5942833
 
 #5 Problem stories concerning thesaurus building and using controlled vocabularies. Examples from the RGZM Department of Scientific IT
-A.W. Mees; F. Thiery
-DOI TBD
+* A.W. Mees; F. Thiery
+* DOI TBD
 
 #6 How to handle vagueness and uncertainty in graph-based LOD knowledge modelling? Dealing with archaeological numismatic and ceramological real world data.
 F. Thiery; A.W. Mees; K. Tolle; D.G. Wigg-Wolf
 10.5281/zenodo.6043048
 
 #7 Challenges & Opportunities from real world archaeological datasets in the community-driven LOD ecosystem
-F. Thiery; A.W. Mees; D.G. Wigg-Wolf
-10.5281/zenodo.6976136
+* F. Thiery; A.W. Mees; D.G. Wigg-Wolf
+* 10.5281/zenodo.6976136
 
 #8 Linked Open Time: Reproducible LOD-driven workflows and research tools for validating Roman Limes and Hadrian's Wall relative time intervals based on Samian (Terra Sigillata)
-F. Thiery; A.W. Mees; S.C. Schmidt
-10.5281/zenodo.6976175
+* F. Thiery; A.W. Mees; S.C. Schmidt
+* 10.5281/zenodo.6976175
 
 #9 Linked Pipes: A Little Minion for reproducible research
-F. Thiery; T. Homburg
-10.5281/zenodo.6976311
+* F. Thiery; T. Homburg
+* 10.5281/zenodo.6976311
 
 #10 Collaborative Writing: Using GitHub as a tool for collaborative writing and community building?
-F. Thiery; S.C. Schmidt
-Squirrel Papers, 4(3), No.10
+* F. Thiery; S.C. Schmidt
 
 #11 Hic sunt dracones - Real-world data-driven knowledge modelling resulting in Semantics and FAIR-LOD based tools and workflows
-F. Thiery; B. Danthine; N. High-Steskal; V. Vitale; A.W. Mees; K. Tolle; D.G. Wigg-Wolf
-10.5281/zenodo.6976193
+* F. Thiery; B. Danthine; N. High-Steskal; V. Vitale; A.W. Mees; K. Tolle; D.G. Wigg-Wolf
+* 10.5281/zenodo.6976193
 
 #12 Little Minions: Our little minions IV: small tools with major impact
-F. Thiery; M. Mennenga; R. Visser; B. Danthine
-DOI TBD
+* F. Thiery; M. Mennenga; R. Visser; B. Danthine
+* DOI TBD
 
 #13 Workflows and experiences on collaborative working and community building using digital tools
-M. Hinz; S.C. Schmidt; F. Thiery
-DOI TBD
+* M. Hinz; S.C. Schmidt; F. Thiery
+* DOI TBD
 
 #14 Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community
 F. Thiery; A.W. Mees; J.B. Kiesling
 10.5281/zenodo.7105005
 
 #15 NAVIS.one: Challenges and Opportunities for RSE and RDM by designing a common web application from a 1990s online database
-F. Thiery; A.W. Mees
-10.5281/zenodo.7142170
+* F. Thiery; A.W. Mees
+* 10.5281/zenodo.7142170
 
 #16 Typologie-Handling zur Dokumentation mit Hilfe künstlicher Intelligenz
-F. Thiery; A.W. Mees
-10.5281/zenodo.7179955
+* F. Thiery; A.W. Mees
+* 10.5281/zenodo.7179955
 
 #17 Daten schaffen Daten! Quellcode sind auch Forschungsdaten!
-F. Thiery; L. Linde
-DOI TBD
+* F. Thiery; L. Linde
+* DOI TBD
 
-## Volume 5 (2023)
+## Volume 5
 
 ### 2023:(5)1
 
@@ -203,9 +202,9 @@ TBD
 ### 2023:(5)2 => SI: Data & Software
 
 #1 Ogham Stone Maps: Squirrel Stones in Ireland
-F. Thiery
-DOI: 10.5281/zenodo.7544117
-Wikidata: Q116235655
+* F. Thiery
+* DOI: 10.5281/zenodo.7544117
+* : Q116235655
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
@@ -218,29 +217,24 @@ TBD
 
 ## How To?
 
-P1433 (published in)
--> https://www.wikidata.org/wiki/Q89658875 (Squirrel Papers)
--> Volume, Issue
-  -> series ordinal (Number)
+* P1433 (published in)
+  * https://www.wikidata.org/wiki/Q89658875 (Squirrel Papers)
+  * Volume, Issue
+  * series ordinal (Number)
 
-Journal: Q89658875
-SP Entity: Q116235645
-SP Issue: Q116235717
-SP Special Issue: Q116235719
-
-Volume 1: Q116235709
-
-Volume 2: Q116235706
-V2, I1: Q116235716
-
-Volume 3: Q116235711
-
-Volume 4: Q114568632
-V4, I1: Q114568638
-V4, I2: Q114568679
-V4, I3: Q114568721
-
-Volume 5: Q116234611
-V5, I1: Q116235591
-V5, I2: Q116234584
-V5, I3: Q116235599
+* Journal: Q89658875
+* SP Entity: Q116235645
+* SP Issue: Q116235717
+* SP Special Issue: Q116235719
+* Volume 1: Q116235709
+* Volume 2: Q116235706
+  * V2, I1: Q116235716
+* Volume 3: Q116235711
+* Volume 4: Q114568632
+  * V4, I1: Q114568638
+  * V4, I2: Q114568679
+  * V4, I3: Q114568721
+* Volume 5: Q116234611
+  * V5, I1: Q116235591
+  * V5, I2: Q116234584
+  * V5, I3: Q116235599
