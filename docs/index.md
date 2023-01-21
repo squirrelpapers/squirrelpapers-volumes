@@ -143,6 +143,10 @@ TBD
 * F. Thiery, T. Homburg, M. Trognitz
 * https://doi.org/10.5281/zenodo.5779053
 
+#4 NAVIS.one Maritime Thesaurus
+* F. Thiery; A. W. Mees
+* [DOI: 10.5281/zenodo.7353771](https://doi.org/10.5281/zenodo.7353771)
+
 ### 2022:(4)3 => SI: Conferences
 
 #1 How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
