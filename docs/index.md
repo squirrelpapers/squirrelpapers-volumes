@@ -222,7 +222,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 **#1 Irish Ogham Stones in Wikidata and Open Street Map**
 * F. Thiery; P. Thiery
-* DOI: TBD
+* DOI: 10.5281/zenodo.7558880
 
 ### 2023:(5)2 => SI: Data & Software
 
