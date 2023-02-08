@@ -233,7 +233,9 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
-*TBD*
+**#1 Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
+* S.C. Schmidt; F. Thiery
+* DOI: 10.5281/zenodo.7617764
 
 # Wikidata
 
