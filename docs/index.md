@@ -237,6 +237,14 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * S.C. Schmidt; F. Thiery
 * DOI: 10.5281/zenodo.7617764
 
+**#2 LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
+* F. Thiery; A.W. Mees
+* DOI: TBD
+
+**#3 Kleinfund-Dokumentation mit der Hilfe von Semantik**
+* F. Thiery
+* DOI: TBD
+
 # Wikidata
 
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Periodicals#Periodical_properties
