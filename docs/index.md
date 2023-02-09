@@ -224,6 +224,10 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * F. Thiery; P. Thiery
 * DOI: 10.5281/zenodo.7558880
 
+**#2 Alligator Method
+* F. Thiery; A.W. Mees
+* DOI: 10.5281/zenodo.7624870
+
 ### 2023:(5)2 => SI: Data & Software
 
 **#1 Ogham Stone Maps: Squirrel Stones in Ireland**
