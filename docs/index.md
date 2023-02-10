@@ -143,13 +143,13 @@ TBD
 * F. Thiery, T. Homburg, M. Trognitz
 * https://doi.org/10.5281/zenodo.5779053
 
-#4 NAVIS.one Maritime Thesaurus
+**#4 [Data] NAVIS.one Maritime Thesaurus**
 * F. Thiery; A. W. Mees
-* [DOI: 10.5281/zenodo.7353771](https://doi.org/10.5281/zenodo.7353771)
+* DOI: [10.5281/zenodo.7353771](https://doi.org/10.5281/zenodo.7353771)
 
-#5 alligator - Allen Transformer
+**#5 [Software] alligator - Allen Transformer**
 * F. Thiery; A. W. Mees
-* [DOI: 10.5281/zenodo.2540709](https://doi.org/10.5281/zenodo.2540709)
+* DOI: [10.5281/zenodo.2540709](https://doi.org/10.5281/zenodo.2540709)
 
 ### 2022:(4)3 => SI: Conferences
 
@@ -224,32 +224,32 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 ### 2023:(5)1
 
-**#1 Irish Ogham Stones in Wikidata and Open Street Map**
+**#1 [Book] Irish Ogham Stones in Wikidata and Open Street Map**
 * F. Thiery; P. Thiery
 * DOI: 10.5281/zenodo.7558880
 
-**#2 Alligator Method**
+**#2 [Working Paper] Alligator Method**
 * F. Thiery; A.W. Mees
 * DOI: 10.5281/zenodo.7624870
 
 ### 2023:(5)2 => SI: Data & Software
 
-**#1 Ogham Stone Maps: Squirrel Stones in Ireland**
+**#1 [Data] Ogham Stone Maps: Squirrel Stones in Ireland**
 * F. Thiery
 * DOI: 10.5281/zenodo.7544117
 * Wikidata: Q116235655
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
-**#1 Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
+**#1 [Presentation] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
 * S.C. Schmidt; F. Thiery
 * DOI: 10.5281/zenodo.7617764
 
-**#2 LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
+**#2 [Presentation] LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
 * F. Thiery; A.W. Mees
 * DOI: TBD
 
-**#3 Kleinfund-Dokumentation mit der Hilfe von Semantik**
+**#3 [Presentation] Kleinfund-Dokumentation mit der Hilfe von Semantik**
 * F. Thiery
 * DOI: TBD
 
