@@ -281,3 +281,13 @@ F. Thiery; A.W. Mees; J.B. Kiesling
   * V5, I1: Q116235591
   * V5, I2: Q116234584
   * V5, I3: Q116235599
+
+Test
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
