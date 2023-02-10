@@ -251,7 +251,9 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 **#3 [`Presentation`] Kleinfund-Dokumentation mit der Hilfe von Semantik**
 * [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
-* DOI: TBD
+* **Event**: Praxisübung / Praktikum zu Kleinfunddokumentation und computergestützte Fotografie am Beispiel römischer Tonlampen bei PD Dr. Matthias Grawehr
+* **Location**: Johannes Gutenberg Universität Mainz, Fachbereich 07, Klassische Archäologie
+* DOI: [10.5281/zenodo.7629861](https://doi.org/10.5281/zenodo.7629861)
 
 # Wikidata
 
