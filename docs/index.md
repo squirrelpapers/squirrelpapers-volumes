@@ -225,32 +225,32 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 ### 2023:(5)1
 
 **#1 [`Book`] Irish Ogham Stones in Wikidata and Open Street Map**
-* F. Thiery; P. Thiery
-* DOI: 10.5281/zenodo.7558880
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
+* DOI: [10.5281/zenodo.7558880](https://doi.org/10.5281/zenodo.7558880)
 
 **#2 [`Working Paper`] Alligator Method**
-* F. Thiery; A.W. Mees
-* DOI: 10.5281/zenodo.7624870
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* DOI: [10.5281/zenodo.7624870](https://doi.org/10.5281/zenodo.7624870)
 
 ### 2023:(5)2 => SI: Data & Software
 
 **#1 [`Data`] Ogham Stone Maps: Squirrel Stones in Ireland**
-* F. Thiery
-* DOI: 10.5281/zenodo.7544117
-* Wikidata: Q116235655
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.7544117](https://doi.org/10.5281/zenodo.7544117)
+* Wikidata: [Q116235655](http://www.wikidata.org/entity/Q116235655)
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
 **#1 [`Presentation`] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
-* S.C. Schmidt; F. Thiery
-* DOI: [10.5281/zenodo.7617764](ttps://doi.org/10.5281/zenodo.7617764)
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4696-2101) S.C. Schmidt; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.7617764](https://doi.org/10.5281/zenodo.7617764)
 
 **#2 [`Presentation`] LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
-* F. Thiery; A.W. Mees
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7629765](https://doi.org/10.5281/zenodo.7629765)
 
 **#3 [`Presentation`] Kleinfund-Dokumentation mit der Hilfe von Semantik**
-* F. Thiery
+* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * DOI: TBD
 
 # Wikidata
