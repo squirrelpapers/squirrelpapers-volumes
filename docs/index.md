@@ -243,11 +243,11 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 **#1 [`Presentation`] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
 * S.C. Schmidt; F. Thiery
-* DOI: 10.5281/zenodo.7617764
+* DOI: [10.5281/zenodo.7617764](ttps://doi.org/10.5281/zenodo.7617764)
 
 **#2 [`Presentation`] LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
 * F. Thiery; A.W. Mees
-* DOI: TBD
+* DOI: [10.5281/zenodo.7629765](https://doi.org/10.5281/zenodo.7629765)
 
 **#3 [`Presentation`] Kleinfund-Dokumentation mit der Hilfe von Semantik**
 * F. Thiery
