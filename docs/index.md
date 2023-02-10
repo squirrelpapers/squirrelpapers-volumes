@@ -225,32 +225,32 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 ### 2023:(5)1
 
 **#1 [`Book`] Irish Ogham Stones in Wikidata and Open Street Map**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
 * DOI: [10.5281/zenodo.7558880](https://doi.org/10.5281/zenodo.7558880)
 
 **#2 [`Working Paper`] Alligator Method**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7624870](https://doi.org/10.5281/zenodo.7624870)
 
 ### 2023:(5)2 => SI: Data & Software
 
 **#1 [`Data`] Ogham Stone Maps: Squirrel Stones in Ireland**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * DOI: [10.5281/zenodo.7544117](https://doi.org/10.5281/zenodo.7544117)
 * Wikidata: [Q116235655](http://www.wikidata.org/entity/Q116235655)
 
 ### 2023:(5)3 => SI: Conferences & Talks
 
 **#1 [`Presentation`] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4696-2101) S.C. Schmidt; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4696-2101) S.C. Schmidt; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * DOI: [10.5281/zenodo.7617764](https://doi.org/10.5281/zenodo.7617764)
 
 **#2 [`Presentation`] LEIZA-Forschungsdaten in der großen weiten Welt der Citizen Science**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7629765](https://doi.org/10.5281/zenodo.7629765)
 
 **#3 [`Presentation`] Kleinfund-Dokumentation mit der Hilfe von Semantik**
-* [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **Event**: Praxisübung / Praktikum zu Kleinfunddokumentation und computergestützte Fotografie am Beispiel römischer Tonlampen bei PD Dr. Matthias Grawehr
 * **Location**: Johannes Gutenberg Universität Mainz, Fachbereich 07, Klassische Archäologie
 * DOI: [10.5281/zenodo.7629861](https://doi.org/10.5281/zenodo.7629861)
