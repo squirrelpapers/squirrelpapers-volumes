@@ -147,6 +147,10 @@ TBD
 * F. Thiery; A. W. Mees
 * [DOI: 10.5281/zenodo.7353771](https://doi.org/10.5281/zenodo.7353771)
 
+#5 alligator - Allen Transformer
+* F. Thiery; A. W. Mees
+* [DOI: 10.5281/zenodo.2540709](https://doi.org/10.5281/zenodo.2540709)
+
 ### 2022:(4)3 => SI: Conferences
 
 #1 How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
@@ -224,7 +228,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * F. Thiery; P. Thiery
 * DOI: 10.5281/zenodo.7558880
 
-**#2 Alligator Method
+**#2 Alligator Method**
 * F. Thiery; A.W. Mees
 * DOI: 10.5281/zenodo.7624870
 
