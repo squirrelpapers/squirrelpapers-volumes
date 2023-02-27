@@ -222,6 +222,16 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * F. Thiery; L. Linde
 * DOI TBD
 
+### 2022:(4)4 => SI: Preprints
+
+**#1 [`Preprint`] Semantic modelling and publishing African Red Slip Ware as Linked Data**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-2822-7648) A. Karmacharya; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1631-9115) L. Rokohl 
+* DOI: [10.5281/zenodo.7361811](https://doi.org/10.5281/zenodo.7361811)
+
+**#2 [`Preprint`] Taming Ambiguity - Dealing with doubts in archaeological datasets using LOD**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* DOI: [10.5281/zenodo.7361759](https://doi.org/10.5281/zenodo.7361759)
+
 ## Volume 5
 
 ### 2023:(5)1
