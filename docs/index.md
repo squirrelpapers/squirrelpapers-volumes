@@ -234,7 +234,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 
 ## Volume 5
 
-### 2023:(5)1
+### Volume 5 Issue 1
 
 **#1 [`Book`] Irish Ogham Stones in Wikidata and Open Street Map**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
@@ -244,14 +244,14 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7624870](https://doi.org/10.5281/zenodo.7624870)
 
-### 2023:(5)2 => SI: Data & Software
+### Volume 5 Issue 2 => SI: Data & Software
 
 **#1 [`Data`] Ogham Stone Maps: Squirrel Stones in Ireland**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * DOI: [10.5281/zenodo.7544117](https://doi.org/10.5281/zenodo.7544117)
 * Wikidata: [Q116235655](http://www.wikidata.org/entity/Q116235655)
 
-### 2023:(5)3 => SI: Conferences & Talks
+### Volume 5 Issue 3 => SI: Conferences & Talks
 
 **#1 [`Presentation`] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4696-2101) S.C. Schmidt; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
