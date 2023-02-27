@@ -1,6 +1,3 @@
-markdown: kramdown
-theme:architect
-
 # Squirrel Papers
 
 ![Squirrel Papers Logo](https://raw.githubusercontent.com/squirrelpapers/overview/main/docs/sqp_logo.png)
