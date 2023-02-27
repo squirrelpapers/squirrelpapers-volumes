@@ -36,7 +36,9 @@
 
 ### 2019:(1)2 => SI: Conferences 2019
 
-TBD
+**#1 [`Presentation`] Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.3403029](https://doi.org/10.5281/zenodo.3403029)
 
 ### 2019:(1)3 => SI: Conferences 2014-2018
 
