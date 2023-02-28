@@ -92,6 +92,10 @@ TBD
 * Florian Thiery; Louise Rokohl
 * https://doi.org/10.5281/zenodo.5722941
 
+**#4 [`Working Paper`] African Red Slip Ware Digital (ARS3D) - How to create a Feature?*
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1631-9115) L. Rokohl; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; A. Dingler; S. Beck
+* DOI: [10.5281/zenodo.5642976](https://doi.org/10.5281/zenodo.5642976)
+
 ### 2021:(3)2
 
 TBD
