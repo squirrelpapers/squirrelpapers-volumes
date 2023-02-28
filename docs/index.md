@@ -42,7 +42,9 @@
 
 ### 2019:(1)3 => SI: Conferences 2014-2018
 
-TBD
+**#1 [`Poster`] Linking potter, pots and places: a LOD approach to samian ware
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.775019](https://doi.org/10.5281/zenodo.775019)
 
 ## Volume 2
 
