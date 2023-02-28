@@ -140,13 +140,25 @@ TBD
 
 ### 2021:(3)3 => SI: Data & Software
 
-#1 Ceramic Typologies Ontology (CeraTyOnt)
-* F. Thiery; A.W. Mees
-* https://doi.org/10.5281/zenodo.5767082
+**#1 Ceramic Typologies Ontology (CeraTyOnt)**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* DOI: [10.5281/zenodo.5767082](https://doi.org/10.5281/zenodo.5767082)
 
-#2 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.1
-* F. Thiery; A.W. Mees
-* https://doi.org/10.5281/zenodo.5767083
+**#2 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.1**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* DOI: [10.5281/zenodo.5767083](https://doi.org/10.5281/zenodo.5767083)
+
+**#3 [Data] Ogham Data**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.4765603](https://doi.org/10.5281/zenodo.4765603)
+
+**#4 [Data] Ogham Data - Version 1.0**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.4765604](https://doi.org/10.5281/zenodo.4765604)
+
+**#5 [Data] Ogham Data - Version 1.1**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.4849646	](https://doi.org/10.5281/zenodo.4849646)
 
 ### 2021:(3)4 => SI: Conferences
 
