@@ -128,6 +128,10 @@ TBD
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1666-0348) J. Veller
 * DOI: [10.5281/zenodo.5642976](https://doi.org/10.5281/zenodo.5642976)
 
+**#13 [Data] African Red Slip Ware Digital (ARS3D) - Comparison (Archaeology)
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.6534661](https://doi.org/10.5281/zenodo.6534661)
+
 ### 2021:(3)2
 
 TBD
