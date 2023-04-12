@@ -185,6 +185,10 @@ TBD
 * Thiery, F., Homburg, T., Klammt, A. & Schmidt, S.C. 
 * DOI: 10.5281/zenodo.7337817
 
+**#6 [`Report`] Fellow-Programm Freies Wissen 2016 - 2021**
+* **Authors**: S. Behrens; C. Schwarzkopf; A-K. Gödeke; D. Scholl; N. Schneider
+* DOI: [10.5281/zenodo.5788378](https://doi.org/10.5281/zenodo.5788378)
+
 ### 2022:(4)2 => SI: Data & Software
 
 #1 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.2
