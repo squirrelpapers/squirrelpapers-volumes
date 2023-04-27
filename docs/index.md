@@ -302,6 +302,10 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7624870](https://doi.org/10.5281/zenodo.7624870)
 
+**#3 [`Book Section`] Irische ᚑᚌᚆᚐᚋ Steine in OSM und Wikidata**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery et al.
+* DOI: [10.5281/zenodo.7870480](https://doi.org/10.5281/zenodo.7870480)
+
 ### Volume 5 Issue 2 => SI: Data & Software
 
 **#1 [`Data`] Ogham Stone Maps: Squirrel Stones in Ireland**
