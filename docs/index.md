@@ -329,6 +329,12 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * **Location**: Johannes Gutenberg Universität Mainz, Fachbereich 07, Klassische Archäologie
 * DOI: [10.5281/zenodo.7629861](https://doi.org/10.5281/zenodo.7629861)
 
+**#4 [`Presentation`] Irish ᚑᚌᚆᚐᚋ Stones in OSM and Wikidata**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: 35th International Geodetic Student Meeting (2.-8. July 2023)
+* **Location**: Polytechnic University of Valencia (Universitat Politècnica de València, UPV)
+* DOI: [10.5281/zenodo.8089448](https://doi.org/10.5281/zenodo.8089448)
+
 ### Volume 5 Issue 4 => SI: GrapHNR 2023
 
 **#1 [`Abstract`] Dating “dated sites”: Using Correspondence Analysis to handle relative chronologies as graphs.**
