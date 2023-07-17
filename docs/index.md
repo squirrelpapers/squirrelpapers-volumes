@@ -348,3 +348,8 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 **#3 [`Presentation`] Dating Dated Sites - Using Correspondence Analysis to handle Chronologies as Graphs.**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.8154700](https://doi.org/10.5281/zenodo.8154700)
+
+**#4 [`Poster`] Temporalities in research: How to deal with ᚑᚌᚆᚐᚋ publishing methods over time?**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Contributors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
+* DOI: [10.5281/zenodo.8154844](https://doi.org/10.5281/zenodo.8154844)
