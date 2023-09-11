@@ -69,3 +69,9 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **Contributors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
 * DOI: [10.5281/zenodo.8154844](https://doi.org/10.5281/zenodo.8154844)
+
+### Issue 5 => NFDI
+
+**#1 [`Presentation`] Object-Related Research Data Workflows Within NFDI4Objects and Beyond**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* DOI: [10.5281/zenodo.8333763](https://doi.org/10.5281/zenodo.8333763)
