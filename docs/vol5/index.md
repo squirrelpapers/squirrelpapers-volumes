@@ -54,8 +54,8 @@
 **#5 [`Presentation`] Umgang mit Unsicherheiten und Vagheiten bei der Georeferenzierung von Geo-Locations in der Archäologie und in den Geowissenschaften**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1100-6494) S. Baars; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204)  F. Schenk
 * **Event**: CAA-DE Workshop (14.-15. September 2023)
-* **Session**: CAA-DE Workshop (14.-15. September 2023)
-* **Location**: Neue Wege bei der Analyse archäologischer Daten
+* **Session**: Neue Wege bei der Analyse archäologischer Daten
+* **Location**: Toscana-Saal der Residenz Würzburg
 * DOI: [10.5281/zenodo.8334767](https://doi.org/10.5281/zenodo.8334767)
 
 ### Issue 4 => GrapHNR 2023
