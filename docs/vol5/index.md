@@ -22,14 +22,18 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery et al.
 * DOI: [10.5281/zenodo.7870480](https://doi.org/10.5281/zenodo.7870480)
 
-### Issue 2 => Data & Software
+### Issue 2
+
+*Special Issue on data and software*
 
 **#1 [`Data`] Ogham Stone Maps: Squirrel Stones in Ireland**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * DOI: [10.5281/zenodo.7544117](https://doi.org/10.5281/zenodo.7544117)
 * Wikidata: [Q116235655](http://www.wikidata.org/entity/Q116235655)
 
-### Issue 3 => Conferences & Talks
+### Issue 3
+
+*Special Issue on conferences and talks*
 
 **#1 [`Presentation`] Wikidata as a Knowledge Base and Research Tool for Open Science in Archaeology**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4696-2101) S.C. Schmidt; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
@@ -58,7 +62,9 @@
 * **Location**: Toscana-Saal der Residenz Würzburg
 * DOI: [10.5281/zenodo.8334767](https://doi.org/10.5281/zenodo.8334767)
 
-### Issue 4 => GrapHNR 2023
+### Issue 4
+
+*Special Issue on GrapHNR 2023 related topics*
 
 **#1 [`Abstract`] Dating “dated sites”: Using Correspondence Analysis to handle relative chronologies as graphs.**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
@@ -77,7 +83,9 @@
 * **Contributors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3270-2659) P. Thiery
 * DOI: [10.5281/zenodo.8154844](https://doi.org/10.5281/zenodo.8154844)
 
-### Issue 5 => NFDI
+### Issue 5
+
+*Special Issue on NFDI related topics*
 
 **#1 [`Presentation`] Object-Related Research Data Workflows Within NFDI4Objects and Beyond**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
