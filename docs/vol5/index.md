@@ -55,6 +55,10 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204) F. Schenk
 * DOI: [10.5281/zenodo.10361309](https://doi.org/10.5281/zenodo.10361309)
 
+**#3 [`Data`] Fuzzy Spatial Locations Ontology**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* DOI: [10.5281/zenodo.10362777](https://doi.org/10.5281/zenodo.10362777)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
