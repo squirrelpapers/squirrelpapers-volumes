@@ -90,6 +90,13 @@
 * **Location**: Toscana-Saal der Residenz Würzburg
 * DOI: [10.5281/zenodo.8334767](https://doi.org/10.5281/zenodo.8334767)
 
+**#6 [`Presentation`] Semantic Modelling using LOD techniques of Uncertainty, Vagueness and Ambiguities in the Archaeological Domain**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204) F. Schenk; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1100-6494) S. Baars
+* **Event**: ARCHAEO.FOSS XVII | 2023 (12.-13. December 2023)
+* **Session**: Panel Session 3: The Roadmap to Cooperation and Transparency: Fostering Open Science Solutions in Archaeology
+* **Location**: Università di Torino, Italy
+* DOI: [10.5281/zenodo.10260778](https://doi.org/10.5281/zenodo.10260778)
+
 ### Issue 4
 
 *Special Issue on GrapHNR 2023 related topics*
