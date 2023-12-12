@@ -132,3 +132,10 @@
 * **Session**: Representation
 * **Location**: RGK, Frankfurt am Mainz
 * DOI: [10.5281/zenodo.10114894](https://doi.org/10.5281/zenodo.10114894)
+
+**#4 [`Presentation`] Semantic Modelling using LOD techniques of Uncertainty, Vagueness and Ambiguities in the Archaeological Domain**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* **Event**: ARCHAEO.FOSS XVII | 2023 (12.-13. December 2023)
+* **Session**: Panel Session 1: Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
+* **Location**: Università di Torino, Italy
+* DOI: [10.5281/zenodo.10260778](https://doi.org/10.5281/zenodo.10260778)
