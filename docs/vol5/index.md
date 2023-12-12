@@ -30,6 +30,18 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery et al.
 * DOI: [10.5281/zenodo.7870480](https://doi.org/10.5281/zenodo.7870480)
 
+* **#4 [`Journal Article`] Modelling of Uncertainty in Geo Sciences Sites**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204) F. Schenk
+* DOI: [10.5281/zenodo.10255259](https://doi.org/10.5281/zenodo.10255259)
+
+**#5 [`Journal Article`] How to locate the Campanian Ignimbrite site Urluia based on literature? How to provide and publish this data in a FAIR way?**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204) F. Schenk
+* DOI: [10.5281/zenodo.10262720](https://doi.org/10.5281/zenodo.10262720)
+
+**#6 [`Journal Article`] Dealing with doubts: Site georeferencing in archaeology and in the geosciences**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0009-0008-2877-3204) F. Schenk; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1100-6494) S. Baars
+* DOI: [10.5281/zenodo.10291889](https://doi.org/10.5281/zenodo.10291889)
+
 ### Issue 2
 
 *Special Issue on data and software*
