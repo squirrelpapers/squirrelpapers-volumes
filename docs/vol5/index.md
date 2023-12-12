@@ -89,3 +89,10 @@
 * **Session**: TBD
 * **Location**: Toscana-Saal der Residenz Würzburg
 * DOI: [10.5281/zenodo.8334735](https://doi.org/10.5281/zenodo.8334735)
+
+**#3 [`Presentation`] Semantic Modelling using LOD techniques of Uncertainty, Vagueness and Ambiguities in the Archaeological Domain**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: ClaReNet Final Workshop (14.-16. November 2023)
+* **Session**: Representation
+* **Location**: RGK, Frankfurt am Mainz
+* DOI: [10.5281/zenodo.10114894](https://doi.org/10.5281/zenodo.10114894)
