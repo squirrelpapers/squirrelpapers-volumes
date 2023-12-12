@@ -293,7 +293,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 ## Volume 5
 
 > * [Issue 1](vol5#issue-1)
-> * [Issue 2](#issue-2): *Special Issue on data and software*
-> * [Issue 3](#issue-3): *Special Issue on conferences and talks*
-> * [Issue 4](#issue-4): *Special Issue on GrapHNR 2023 related topics*
-> * [Issue 5](#issue-5): *Special Issue on NFDI related topics*
+> * [Issue 2](vol5#issue-2): *Special Issue on data and software*
+> * [Issue 3](vol5#issue-3): *Special Issue on conferences and talks*
+> * [Issue 4](vol5#issue-4): *Special Issue on GrapHNR 2023 related topics*
+> * [Issue 5](vol5#issue-5): *Special Issue on NFDI related topics*
