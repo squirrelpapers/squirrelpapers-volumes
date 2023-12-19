@@ -59,6 +59,14 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **DOI**: [10.5281/zenodo.10362777](https://doi.org/10.5281/zenodo.10362777)
 
+**#4 [`Data`] Croton Geo Locations**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-1100-6494) S. Baars
+* **DOI**: [10.5281/zenodo.10369624](https://doi.org/10.5281/zenodo.10369624)
+
+**#5 [`Software`] SPARQL Unicorn Ontology Documentation**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **DOI**: [10.5281/zenodo.8190763](https://doi.org/10.5281/zenodo.8190763)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
