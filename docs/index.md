@@ -34,6 +34,10 @@
 * Florian Thiery
 * https://doi.org/10.5281/zenodo.2635490
 
+#5 SPARQLing Unicorn QGIS Plugin
+* Florian Thiery, Timo Homburg
+* 10.5281/zenodo.3786814
+
 ### 2019:(1)2 => SI: Conferences 2019
 
 **#1 [`Presentation`] Linked Data Cloud: Bindeglied zwischen Geodäsie und Gesellschaft**
