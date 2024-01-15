@@ -13,6 +13,7 @@
 > * [Volume 3: 2021](#volume-3)
 > * [Volume 4: 2022](#volume-4)
 > * [Volume 5: 2023](#volume-5)
+> * [Volume 6: 2024](#volume-6)
 
 ## Volume 1
 
