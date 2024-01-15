@@ -40,3 +40,15 @@
 * **Date**: 01.01.2024
 * **Type**: NFDI4Objects Community Cluster
 * **DOI**: [10.5281/zenodo.10512603](https://doi.org/10.5281/zenodo.10512603)
+
+**#3 [`Conference Session`] Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks"**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-1854-6760) A. Schneider - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke - Jim Allison - Daria Stefan
+* **Date**: 01.01.2024
+* **Type**: EAA 2024, Rome, Italy, Call for Papers
+* **DOI**: [10.5281/zenodo.10515269](https://doi.org/10.5281/zenodo.10515269)
+
+**#4 [`Conference Session`] Best Practices on Archaeological 3D Data Management: Methods and Approaches to Capture, Generate, and Disseminate 3D Information in Archaeology"**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-7933-3518) J. Hollaender - Miguel Angel Dilena Quintana - John Skole - Elli Papazoi - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Date**: 01.01.2024
+* **Type**: EAA 2024, Rome, Italy, Call for Papers
+* **DOI**: [10.5281/zenodo.10515288](https://doi.org/10.5281/zenodo.10515288)
