@@ -25,6 +25,13 @@
 
 *Special Issue on conferences and talks*
 
+**#1 [`Presentation`] 3D and Research Data Management (RDM): Examples for semantic 3D annotation/modelling in the data qualification process in the NFDI consortia NFDI4Objects (N4O) and NFDI4Culture (N4C)**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-5190-1867) L. Rossenova; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-9043-3632)  Z. Schubert
+* **Event**: Oldenburger 3D-Tage (31. January - 01. February 2024)
+* **Session**: Kulturerbe
+* **Location**: Jade-Hoschschule, Oldenburg
+* **DOI**: [10.5281/zenodo.10580308](https://doi.org/10.5281/zenodo.10580308)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
