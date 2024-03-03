@@ -26,11 +26,25 @@
 *Special Issue on conferences and talks*
 
 **#1 [`Presentation`] 3D and Research Data Management (RDM): Examples for semantic 3D annotation/modelling in the data qualification process in the NFDI consortia NFDI4Objects (N4O) and NFDI4Culture (N4C)**
-* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-5190-1867) L. Rossenova; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-9043-3632)  Z. Schubert
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-5190-1867) L. Rossenova; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-9043-3632) Z. Schubert
 * **Event**: Oldenburger 3D-Tage (31. January - 01. February 2024)
 * **Session**: Kulturerbe
 * **Location**: Jade-Hoschschule, Oldenburg
 * **DOI**: [10.5281/zenodo.10580308](https://doi.org/10.5281/zenodo.10580308)
+
+**#2 [`Presentation`] Research Software Engineering in NFDI4Objects: Community building, implementation of FAIRification Tools and scripting in Computational Archaeology**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4889-9353) L. Schubert; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke
+* **Event**: deRSE2024 (05. - 07. March 2024)
+* **Session**: RSE in Digital Humanities
+* **Location**: Julius-Maximilians-Universität Würzburg
+* **DOI**: [10.5281/zenodo.10774878](https://doi.org/10.5281/zenodo.10774878)
+
+**#3 [`Poster`] FOSS N4O Management Hub: Using RSE skills and Open Source Software to propose a heterogenious Management Hub in NFDI4Objects**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke
+* **Event**: deRSE2024 (05. - 07. March 2024)
+* **Session**: Poster Session
+* **Location**: Julius-Maximilians-Universität Würzburg
+* **DOI**: [10.5281/zenodo.10756823](https://doi.org/10.5281/zenodo.10756823)
 
 ### Issue 4
 
