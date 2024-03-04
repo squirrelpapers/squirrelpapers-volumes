@@ -21,6 +21,13 @@
 
 *Special Issue on data and software*
 
+**#1 [`Software`] SPARQLing Unicorn QGIS Plugin**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
+* **Version**: 0.17
+* **Repository**: [sparqlunicornGoesGIS](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
+* **Release**: [@v0.17](https://github.com/sparqlunicorn/sparqlunicornGoesGIS/releases/tag/v0.17)
+* **DOI**: [10.5281/zenodo.10779466](https://doi.org/10.5281/zenodo.10779466)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
@@ -45,6 +52,20 @@
 * **Session**: Poster Session
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10756823](https://doi.org/10.5281/zenodo.10756823)
+
+**#4 [`Poster`] Research Software Engineering in the NFDI**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-8188-620X) B. Flemisch; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: deRSE2024 (05. - 07. March 2024)
+* **Session**: Poster Session
+* **Location**: Julius-Maximilians-Universität Würzburg
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#5 [`Presentation`] The SPARQL Unicorn: A Research Tool for Linked Open Data in QGIS and git-action-based ontology documentation**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
+* **Event**: deRSE2024 (05. - 07. March 2024)
+* **Session**: RSE in Digital Humanities
+* **Location**: Julius-Maximilians-Universität Würzburg
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
 
 ### Issue 4
 
