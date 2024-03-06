@@ -65,7 +65,7 @@
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: RSE in Digital Humanities
 * **Location**: Julius-Maximilians-Universität Würzburg
-* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+* **DOI**: [10.5281/zenodo.10790939](https://doi.org/10.5281/zenodo.10790939)
 
 ### Issue 4
 
