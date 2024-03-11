@@ -28,6 +28,13 @@
 * **Release**: [@v0.17](https://github.com/sparqlunicorn/sparqlunicornGoesGIS/releases/tag/v0.17)
 * **DOI**: [10.5281/zenodo.10779466](https://doi.org/10.5281/zenodo.10779466)
 
+**#2 [`Software`] SPARQL Unicorn Ontology Documentation**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Version**: 0.17
+* **Repository**: [sparqlunicornGoesGIS-ontdoc](https://github.com/sparqlunicorn/sparqlunicornGoesGIS-ontdoc)
+* **Release**: [@v0.17](https://github.com/sparqlunicorn/sparqlunicornGoesGIS-ontdoc/releases/tag/0.17)
+* **DOI**: [10.5281/zenodo.10780476](https://doi.org/10.5281/zenodo.10780476)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
