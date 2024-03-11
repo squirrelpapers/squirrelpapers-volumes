@@ -60,12 +60,12 @@
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10756823](https://doi.org/10.5281/zenodo.10756823)
 
-**#4 [`Poster`] Research Software Engineering in the NFDI**
+**#4 [`Poster`] Research Software Engineering within the NFDI (INFRA-WG-RSE)**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-8188-620X) B. Flemisch; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: Poster Session
 * **Location**: Julius-Maximilians-Universität Würzburg
-* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+* **DOI**: [10.5281/zenodo.10805071](https://doi.org/10.5281/zenodo.10805071)
 
 **#5 [`Presentation`] The SPARQL Unicorn: A Research Tool for Linked Open Data in QGIS and git-action-based ontology documentation**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
