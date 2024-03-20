@@ -74,6 +74,20 @@
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10790939](https://doi.org/10.5281/zenodo.10790939)
 
+**#6 [`Presentation`] Modellierung von Fuzzyness & Wobbliness in Geodaten am Beispiel archäologischer und geowissenschaftlicher Fundorte**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; F. Schenk; S. Baars; K. Tolle; P. Thiery
+* **Event**: FOSSGIS 2024 (20-23 March 2024)
+* **Session**: Daten, Datenbanken und Datenprozessierung
+* **Location**: Technische Universität Hamburg (TUHH)
+* **DOI**: [10.5281/zenodo.10840999](https://doi.org/10.5281/zenodo.10840999)
+
+**#7 [`Presentation`] The SPARQL Unicorn Ontology documentation: Exposing RDF geodata using static GeoAPIs**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
+* **Event**: FOSSGIS 2024 (20-23 March 2024)
+* **Session**: Daten, Datenbanken und Datenprozessierung
+* **Location**: Technische Universität Hamburg (TUHH)
+* **DOI**: [10.5281/zenodo.10841046](https://doi.org/10.5281/zenodo.10841046)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
