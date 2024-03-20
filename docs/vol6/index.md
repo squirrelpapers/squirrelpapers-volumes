@@ -80,6 +80,7 @@
 * **Session**: Daten, Datenbanken und Datenprozessierung
 * **Location**: Technische Universität Hamburg (TUHH)
 * **DOI**: [10.5281/zenodo.10840999](https://doi.org/10.5281/zenodo.10840999)
+* **Video**: [media.ccc](https://media.ccc.de/v/fossgis2024-38914-modellierung-von-fuzzyness-wobbliness-in-geodaten)
 
 **#7 [`Presentation`] The SPARQL Unicorn Ontology documentation: Exposing RDF geodata using static GeoAPIs**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
@@ -87,6 +88,7 @@
 * **Session**: Daten, Datenbanken und Datenprozessierung
 * **Location**: Technische Universität Hamburg (TUHH)
 * **DOI**: [10.5281/zenodo.10841046](https://doi.org/10.5281/zenodo.10841046)
+* **Video**: [media.ccc](https://media.ccc.de/v/fossgis2024-39049-the-sparql-unicorn-ontology-documentation-exposing-rdf-geodata-using-static-geoapis)
 
 ### Issue 4
 
