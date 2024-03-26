@@ -157,3 +157,12 @@
 * **Session**: Panel Session 1: Tools, objectives, users: state of art and future perspectives on the sharing of open data in archaeology
 * **Location**: Università di Torino, Italy
 * **DOI**: [10.5281/zenodo.10260778](https://doi.org/10.5281/zenodo.10260778)
+
+### Issue 6
+
+*Special Issue on GitHub Releases*
+
+**#1 [`Data`] archaeolink-lod / ars**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Repo**: [archaeolink-lod/ars](https://github.com/archaeolink-lod/ars)
+* **Release**: [@v0.1/20231212](https://github.com/archaeolink-lod/ars/releases/tag/v0.1)
