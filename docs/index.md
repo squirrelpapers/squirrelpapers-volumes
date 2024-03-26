@@ -216,6 +216,13 @@ TBD
 * F. Thiery; A. W. Mees
 * DOI: [10.5281/zenodo.2540709](https://doi.org/10.5281/zenodo.2540709)
 
+**#6 [`Ontology`] Linked Archaeological Data Ontology**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Version**: 1.0
+* **Repository**: [lado](https://github.com/archaeolink/lado/)
+* **Release**: [@v1.0](https://github.com/archaeolink/lado/releases/tag/v1.0)
+* **DOI**: [10.5281/zenodo.7377740](https://doi.org/10.5281/zenodo.7377740)
+
 ### 2022:(4)3 => SI: Conferences
 
 #1 How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
