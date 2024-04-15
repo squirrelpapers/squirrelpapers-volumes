@@ -90,6 +90,13 @@
 * **DOI**: [10.5281/zenodo.10841046](https://doi.org/10.5281/zenodo.10841046)
 * **Video**: [media.ccc](https://media.ccc.de/v/fossgis2024-39049-the-sparql-unicorn-ontology-documentation-exposing-rdf-geodata-using-static-geoapis)
 
+**#8 [`Presentation`] Terminologien in NFDI4Objects**
+* **Authors**: J. Voß - F. Thiery - A. Gerber - S. Wagner - F. von Hagel
+* **Event**: Brücken schlagen zwischen Terminologien (20 March 2024)
+* **Session**: n/a
+* **Location**: online
+* **DOI**: [10.5281/zenodo.10906911](https://doi.org/10.5281/zenodo.10906911)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
