@@ -128,5 +128,5 @@
 **#5 [`Conference Session`] Research Data Management in Cultural Heritage goes Digital – New Technologies along the object biography"**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery -  M. thor Straten - N. Alpino
 * **Date**: 15.04.2024
-* **Type**: CHNT29 | 2024, Vienna, Austria, Call for Papers
+* **Type**: CHNT29, Vienna, Austria, Call for Papers
 * **DOI**: [10.5281/zenodo.10992401](https://doi.org/10.5281/zenodo.10992401)
