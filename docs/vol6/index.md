@@ -42,6 +42,13 @@
 * **Release**: [@v1.0](https://github.com/leiza-rse/tiger/releases/tag/v1.0)
 * **DOI**: [10.5281/zenodo.11064284](https://doi.org/10.5281/zenodo.11064284)
 
+**#4 [`Software`] alligator - Allen Transformer**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - A.W. Mees
+* **Version**: 1.1
+* **Repository**: [alligator](https://github.com/leiza-rse/alligator)
+* **Release**: [@v1.1](https://github.com/leiza-rse/alligator/releases/tag/v1.1)
+* **DOI**: [10.5281/zenodo.11064526](https://doi.org/10.5281/zenodo.11064526)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
