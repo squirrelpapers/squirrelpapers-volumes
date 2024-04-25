@@ -35,6 +35,13 @@
 * **Release**: [@v0.17](https://github.com/sparqlunicorn/sparqlunicornGoesGIS-ontdoc/releases/tag/0.17)
 * **DOI**: [10.5281/zenodo.10780476](https://doi.org/10.5281/zenodo.10780476)
 
+**#3 [`Software`] TiGeR - Time Geospatial RDF**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - A.W. Mees
+* **Version**: 1.0
+* **Repository**: [tiger](https://github.com/leiza-rse/tiger)
+* **Release**: [@v1.0](https://github.com/leiza-rse/tiger/releases/tag/v1.0)
+* **DOI**: [10.5281/zenodo.11064284](https://doi.org/10.5281/zenodo.11064284)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
