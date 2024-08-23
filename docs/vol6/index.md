@@ -18,6 +18,12 @@
 
 ### Issue 1
 
+**#1 [`Presentation`] kulturelles Erbe, Linked Open Data und das Wikiversum Beispiele aus dem LEIZA, NFDI4Objects und dem Research Squirrel Engineers Network**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: Netzwerktreffen kulturelles Erbe, Linked Open Data und das Wikiversum (14 June 2024)
+* **Location**: Wikimedia Deutschland e.V., Berlin, Germany
+* **Link**: [File:Netzwerktreffen_Offene_Kulturdaten_2024_Thiery.pdf](https://commons.wikimedia.org/wiki/File:Netzwerktreffen_Offene_Kulturdaten_2024_Thiery.pdf)
+
 ### Issue 2
 
 *Special Issue on data and software*
