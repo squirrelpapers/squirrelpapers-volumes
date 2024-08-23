@@ -183,7 +183,7 @@
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
 * **Location**: University College Cork (UCC), Cork, Ireland
-* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+* **DOI**: [10.5281/zenodo.13364444](https://doi.org/10.5281/zenodo.13364444)
 
 **#6 [`Presentation`] Ogham stones on OpenStreetMap**
 * **Authors**: Anne-Karoline Distel
