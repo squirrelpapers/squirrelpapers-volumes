@@ -105,12 +105,12 @@
 * **DOI**: [10.5281/zenodo.10841046](https://doi.org/10.5281/zenodo.10841046)
 * **Video**: [media.ccc](https://media.ccc.de/v/fossgis2024-39049-the-sparql-unicorn-ontology-documentation-exposing-rdf-geodata-using-static-geoapis)
 
-**#8 [`Presentation`] Terminologien in NFDI4Objects**
-* **Authors**: J. Voß - F. Thiery - A. Gerber - S. Wagner - F. von Hagel
-* **Event**: Brücken schlagen zwischen Terminologien (20 March 2024)
-* **Session**: n/a
-* **Location**: online
-* **DOI**: [10.5281/zenodo.10906911](https://doi.org/10.5281/zenodo.10906911)
+**#8 [`Presentation`] [`Conference Paper`] 3D-Erfassung und FAIRe Publikation von Cultural Heritage Artefakten, insbesondere Ogham Steine und Holy Wells in Zusammenarbeit mit Citizen Scientists**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - - Anne-Karoline Distel - Nora White - Megan Kasten
+* **Event**: CAA Deutschland-Workshop 2024 (05-06 September 2024)
+* **Session**:  3D-Dokumentation – Chancen und Herausforderungen
+* **Location**: Historisches Seminar der Universität Münster, Münster, Germany
+* **DOI**: [10.5281/zenodo.13364535](https://doi.org/10.5281/zenodo.13364535)
 
 ### Issue 4
 
@@ -145,6 +145,13 @@
 * **Date**: 15.04.2024
 * **Type**: CHNT29, Vienna, Austria, Call for Papers
 * **DOI**: [10.5281/zenodo.10992401](https://doi.org/10.5281/zenodo.10992401)
+
+**#6 [`Presentation`] Terminologien in NFDI4Objects**
+* **Authors**: J. Voß - F. Thiery - A. Gerber - S. Wagner - F. von Hagel
+* **Event**: Brücken schlagen zwischen Terminologien (20 March 2024)
+* **Session**: n/a
+* **Location**: online
+* **DOI**: [10.5281/zenodo.10906911](https://doi.org/10.5281/zenodo.10906911)
 
 ### Issue 5
 
