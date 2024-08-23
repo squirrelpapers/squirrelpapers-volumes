@@ -14,6 +14,7 @@
 > * [Issue 2](#issue-2): *Special Issue on data and software*
 > * [Issue 3](#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](#issue-4): *Special Issue on NFDI related topics*
+> * [Issue 5](#issue-5): *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
 
 ### Issue 1
 
@@ -144,3 +145,49 @@
 * **Date**: 15.04.2024
 * **Type**: CHNT29, Vienna, Austria, Call for Papers
 * **DOI**: [10.5281/zenodo.10992401](https://doi.org/10.5281/zenodo.10992401)
+
+### Issue 5
+
+*Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
+
+**#1 [`Presentation`] Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Nora White - Megan Kasten - Anne-Karoline Distel
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#2 [`Presentation`] OG(H)AM in 3D-Digitisation, digital epigraphy and crosssector collaboration in the study of ogham**
+* **Authors**: Nora White
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#3 [`Presentation`] OG(H)AM in 3D**
+* **Authors**: Megan Kasten
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#4 [`Presentation`] Og(h)am and Linked Open Data**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery /w Peter Thiery
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#5 [`Presentation`] Og(h)am in Open Science Community Hubs and the Citizen Sciences - Wikidata**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery /w S.C. Schmidt, M. Trognitz, T. Homburg
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
+
+**#6 [`Presentation`] Ogham stones on OpenStreetMap**
+* **Authors**: Anne-Karoline Distel
+* **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
+* **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
+* **Location**: University College Cork (UCC), Cork, Ireland
+* **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
