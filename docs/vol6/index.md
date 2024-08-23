@@ -171,7 +171,7 @@
 * **Location**: University College Cork (UCC), Cork, Ireland
 * **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
 
-**#4 [`Presentation`] Og(h)am and Linked Open Data**
+**#4 [`Presentation`] [`Conference Paper`] Og(h)am and Linked Open Data**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery /w Peter Thiery
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
