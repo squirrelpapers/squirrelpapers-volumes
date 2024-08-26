@@ -159,6 +159,20 @@
 * **Location**: online
 * **DOI**: [10.5281/zenodo.10906911](https://doi.org/10.5281/zenodo.10906911)
 
+**#7 [`Presentation`] [`Conference Paper`] Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-1854-6760) A. Schneider - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke - Jim Allison - Daria Stefan
+* **Event**: EAA 2024, Rome, Italy (31 August 2024)
+* **Session**: 514: Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks
+* **Location**: Sapienza University of Rome, Italy
+* **DOI**: [10.5281/zenodo.13373890](https://doi.org/10.5281/zenodo.13373890)
+
+**#8 [`Presentation`] [`Conference Paper`] Taming Time: Using Correspondence Analysis to handle relative chronologies as graphs**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - A.W. Mees
+* **Event**: EAA 2024, Rome, Italy (31 August 2024)
+* **Session**: 514: Applying Archaeological Research Software Engineering as Little Minions: Statistical & Computational Approaches to Daily Archaeological Tasks
+* **Location**: Sapienza University of Rome, Italy
+* **DOI**: [10.5281/zenodo.13132293](https://doi.org/10.5281/zenodo.13132293)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
