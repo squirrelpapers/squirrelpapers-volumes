@@ -173,6 +173,12 @@
 * **Location**: Sapienza University of Rome, Italy
 * **DOI**: [10.5281/zenodo.13132293](https://doi.org/10.5281/zenodo.13132293)
 
+**#9 [`Presentation`] (3D-)Digitalisierung von archäologischen Objekten: Objektbiographien und digitale Workflows am Beispiel der Task Area Collecting von NFDI4Objects**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: BiodiversiTea – die NFDI4Biodiversity Coffee Lecture #5 (20 August 2024)
+* **Location**: online
+* **DOI**: [10.5281/zenodo.13332508](https://doi.org/10.5281/zenodo.13332508)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
