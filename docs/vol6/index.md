@@ -123,7 +123,7 @@
 * **Event**: EAA 2024, Rome, Italy (31 August 2024)
 * **Session**: Poster Session
 * **Location**: Sapienza University of Rome, Italy
-* **DOI**: [10.5281/zenodo.xyz](https://doi.org/10.5281/zenodo.xyz)
+* **DOI**: [10.5281/zenodo.13627274](https://doi.org/10.5281/zenodo.13627274)
 
 ### Issue 4
 
