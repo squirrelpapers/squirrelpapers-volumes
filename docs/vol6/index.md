@@ -118,7 +118,7 @@
 * **Location**: Historisches Seminar der Universität Münster, Münster, Germany
 * **DOI**: [10.5281/zenodo.13364535](https://doi.org/10.5281/zenodo.13364535)
 
-**#9 [`Poster`] Taming Doubts - How to semantically model fuzzy and wobbly georeferences in archaeology and in the geosciences**
+**#9 [`Poster`] [`Conference Paper`] Taming Doubts - How to semantically model fuzzy and wobbly georeferences in archaeology and in the geosciences**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Fiona Schenk - Peter Thiery
 * **Event**: EAA 2024, Rome, Italy (31 August 2024)
 * **Session**: Poster Session
