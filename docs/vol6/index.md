@@ -186,6 +186,13 @@
 * **Location**: online
 * **DOI**: [10.5281/zenodo.13332508](https://doi.org/10.5281/zenodo.13332508)
 
+**#10 [`Poster`] Let us build a human network on Semantic Modelling and Linked Open Data for object-related FAIRification**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Karsten Tolle
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
+* **Session**: Poster Session
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.13734161](https://doi.org/10.5281/zenodo.13734161)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
