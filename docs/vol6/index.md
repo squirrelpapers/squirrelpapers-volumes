@@ -207,6 +207,13 @@
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13734484](https://doi.org/10.5281/zenodo.13734484)
 
+**#13 [`Presentation`] [`Conference Paper`] Interdisziplinäre Knowledge Graphen? Wieso man eine gemeinsame Object-Ontologie und ein Minimal-Metadatenset benötigt, um FDM in einem Knowledge Graphen zum Leben zu erwecken**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Anja Gerber - Fabian Fricke
+* **Event**: CAA Deutschland-Workshop 2024 (05-06 September 2024)
+* **Session**: Nachhaltige Forschung
+* **Location**: Historisches Seminar der Universität Münster, Münster, Germany
+* **DOI**: [10.5281/zenodo.13364680](https://doi.org/10.5281/zenodo.13364680)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
