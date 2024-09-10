@@ -214,6 +214,13 @@
 * **Location**: Historisches Seminar der Universität Münster, Münster, Germany
 * **DOI**: [10.5281/zenodo.13364680](https://doi.org/10.5281/zenodo.13364680)
 
+**#14 [`Poster`] NFDI4Objects Objects Ontology & Minimal Metadata Set**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Anja Gerber - Fabian Fricke
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
+* **Session**: Poster Session
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.13739143](https://doi.org/10.5281/zenodo.13739143)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
