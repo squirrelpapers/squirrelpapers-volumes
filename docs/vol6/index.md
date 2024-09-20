@@ -194,7 +194,7 @@
 * **DOI**: [10.5281/zenodo.13734161](https://doi.org/10.5281/zenodo.13734161)
 
 **#11 [`Poster`] Communities of Practice: Research Software Engineering within NFDI4Objects and the NFDI e.V. section Common Infrastructures applying FAIRification and RDM solutions**
-* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Lutz Schubert - Bern Flemisch
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Lutz Schubert - Bernd Flemisch
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
@@ -220,6 +220,20 @@
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13739143](https://doi.org/10.5281/zenodo.13739143)
+
+**#15 [`Poster`] Little Minions in Archaeology - An open space for RSE software and small scripts in digital archaeology**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Moritz Mennenga - Ronald Visser - Brigit Danthine
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
+* **Session**: Poster Session
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.xyz](https://doi.org/10.5281/zenodo.xyz)
+
+**#16 [`Poster`] Von Eichhörnchen und Unicorns - Community-driven grassroots Lösungen zur FAIRification aus der Archäologie und den Geowissenschaften**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Timo Homburg - Fiona Schenk - Sophie C. Schmidt
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
+* **Session**: Poster Session
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.xyz](https://doi.org/10.5281/zenodo.xyz)
 
 ### Issue 5
 
