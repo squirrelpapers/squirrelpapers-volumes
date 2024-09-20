@@ -226,14 +226,14 @@
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
-* **DOI**: [10.5281/zenodo.xyz](https://doi.org/10.5281/zenodo.xyz)
+* **DOI**: [10.5281/zenodo.13803736](https://doi.org/10.5281/zenodo.13803736)
 
 **#16 [`Poster`] Von Eichhörnchen und Unicorns - Community-driven grassroots Lösungen zur FAIRification aus der Archäologie und den Geowissenschaften**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Timo Homburg - Fiona Schenk - Sophie C. Schmidt
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
-* **DOI**: [10.5281/zenodo.xyz](https://doi.org/10.5281/zenodo.xyz)
+* **DOI**: [10.5281/zenodo.13803957](https://doi.org/10.5281/zenodo.13803957)
 
 ### Issue 5
 
