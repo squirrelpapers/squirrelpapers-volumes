@@ -242,6 +242,13 @@
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13803957](https://doi.org/10.5281/zenodo.13803957)
 
+**#17 [`Presentation`] [`Conference Paper`] Interdisziplinäre Knowledge Graphen? Wieso man eine gemeinsame Object-Ontologie und ein Minimal-Metadatenset benötigt, um FDM in einem Knowledge Graphen zum Leben zu erwecken**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Lasse Mempel-Länger - Kristina Fella - Andreas Puhl
+* **Event**: Verbandstagung 2024 des NWVA e.V. (07-11 Oktober 2024)
+* **Session**: Von der digital gestützten Ausgrabung zu digitalen Diensten in der Archäologie
+* **Location**: DBM Bochum, Germany
+* **DOI**: [10.5281/zenodo.13897159](https://doi.org/10.5281/zenodo.13897159)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
