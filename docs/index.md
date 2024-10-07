@@ -317,7 +317,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * DOI: [10.5281/zenodo.7361759](https://doi.org/10.5281/zenodo.7361759)
 
-## Volume 5
+## [Volume 5](vol5)
 
 > * [Issue 1](vol5#issue-1)
 > * [Issue 2](vol5#issue-2): *Special Issue on data and software*
@@ -325,7 +325,7 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 > * [Issue 4](vol5#issue-4): *Special Issue on GrapHNR 2023 related topics*
 > * [Issue 5](vol5#issue-5): *Special Issue on NFDI related topics*
 
-## Volume 6
+## [Volume 6](vol6)
 
 > * [Issue 1](vol6#issue-1)
 > * [Issue 2](vol6#issue-2): *Special Issue on data and software*
