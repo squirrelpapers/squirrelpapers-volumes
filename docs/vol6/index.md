@@ -200,21 +200,21 @@
 * **Location**: online
 * **DOI**: [10.5281/zenodo.13332508](https://doi.org/10.5281/zenodo.13332508)
 
-**#10 [`Poster`] Let us build a human network on Semantic Modelling and Linked Open Data for object-related FAIRification**
+**#10 [`Poster`] [`Conference Paper`] Let us build a human network on Semantic Modelling and Linked Open Data for object-related FAIRification**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Karsten Tolle
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13734161](https://doi.org/10.5281/zenodo.13734161)
 
-**#11 [`Poster`] Communities of Practice: Research Software Engineering within NFDI4Objects and the NFDI e.V. section Common Infrastructures applying FAIRification and RDM solutions**
+**#11 [`Poster`] [`Conference Paper`] Communities of Practice: Research Software Engineering within NFDI4Objects and the NFDI e.V. section Common Infrastructures applying FAIRification and RDM solutions**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Lutz Schubert - Bernd Flemisch
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13734380](https://doi.org/10.5281/zenodo.13734380)
 
-**#12 [`Poster`] Task Area 2: FDM-Services im Sammlungskontext**
+**#12 [`Poster`] [`Conference Paper`] Task Area 2: FDM-Services im Sammlungskontext**
 * **Authors**: S. Baars - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - et al.
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
@@ -228,21 +228,21 @@
 * **Location**: Historisches Seminar der Universität Münster, Münster, Germany
 * **DOI**: [10.5281/zenodo.13364680](https://doi.org/10.5281/zenodo.13364680)
 
-**#14 [`Poster`] NFDI4Objects Objects Ontology & Minimal Metadata Set**
+**#14 [`Poster`] [`Conference Paper`] NFDI4Objects Objects Ontology & Minimal Metadata Set**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Anja Gerber - Fabian Fricke
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13739143](https://doi.org/10.5281/zenodo.13739143)
 
-**#15 [`Poster`] Little Minions in Archaeology - An open space for RSE software and small scripts in digital archaeology**
+**#15 [`Poster`] [`Conference Paper`] Little Minions in Archaeology - An open space for RSE software and small scripts in digital archaeology**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Moritz Mennenga - Ronald Visser - Brigit Danthine
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
 * **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
 * **DOI**: [10.5281/zenodo.13803736](https://doi.org/10.5281/zenodo.13803736)
 
-**#16 [`Poster`] Von Eichhörnchen und Unicorns - Community-driven grassroots Lösungen zur FAIRification aus der Archäologie und den Geowissenschaften**
+**#16 [`Poster`] [`Conference Paper`] Von Eichhörnchen und Unicorns - Community-driven grassroots Lösungen zur FAIRification aus der Archäologie und den Geowissenschaften**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Timo Homburg - Fiona Schenk - Sophie C. Schmidt
 * **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (26 September 2024)
 * **Session**: Poster Session
@@ -255,6 +255,27 @@
 * **Session**: Von der digital gestützten Ausgrabung zu digitalen Diensten in der Archäologie
 * **Location**: DBM Bochum, Germany
 * **DOI**: [10.5281/zenodo.13897159](https://doi.org/10.5281/zenodo.13897159)
+
+**#18 [`Workshop`] Workshop III: Linked Open Data am Beispiel von RDF-Daten, Wikidata und Wikibase**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Karsten Tolle - Tobias-Arera Rütenik
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (25 September 2024)
+* **Session**: Workshops on Wednesday
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.13927753](https://doi.org/10.5281/zenodo.13927753)
+
+**#19 [`Workshop`] Workshop VI: Harmonisierung und Integration von Konsortialdiensten durch Verknüpfung dezentraler Systeme in NFDI4Objects**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Anja Gerber - Fabian Fricke
+* **Event**: NFDI4Objects Community Meeting 2024, Mainz, Germany (27 September 2024)
+* **Session**: Workshops on Friday
+* **Location**: Leibniz-Zentrum für Archäologie (LEIZA), Mainz Germany
+* **DOI**: [10.5281/zenodo.13980905](https://doi.org/10.5281/zenodo.13980905)
+
+**#20 [`Workshop`] Geodata in Linked Open Data and Wikidata in Practice**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Timo Homburg
+* **Event**: Open Science Festival Mainz 2024, Mainz, Germany (17 September 2024)
+* **Session**: Workshops Day 1
+* **Location**: JGU, Mainz Germany
+* **DOI**: [10.5281/zenodo.13980966](https://doi.org/10.5281/zenodo.13980966)
 
 ### Issue 5
 
