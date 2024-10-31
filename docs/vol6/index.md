@@ -277,6 +277,13 @@
 * **Location**: JGU, Mainz Germany
 * **DOI**: [10.5281/zenodo.13980966](https://doi.org/10.5281/zenodo.13980966)
 
+**#21 [`Poster`] [`Conference Paper`] NFDI4Objects and the Base4NFDI Services: An Overview**
+* **Authors**: Fabian Fricke - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: 1st Base4NFDI User Conference (UC4B2024), Berlin, Germany (20 November 2024)
+* **Session**: Poster Minute Madness
+* **Location**: Fraunhofer FOKUS – Fraunhofer Institute for Open Communication Systems, Berlin, Germany
+* **DOI**: [10.5281/zenodo.14017594](https://doi.org/10.5281/zenodo.14017594)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
