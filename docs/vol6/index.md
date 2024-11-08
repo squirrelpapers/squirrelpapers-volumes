@@ -284,6 +284,27 @@
 * **Location**: Fraunhofer FOKUS – Fraunhofer Institute for Open Communication Systems, Berlin, Germany
 * **DOI**: [10.5281/zenodo.14017594](https://doi.org/10.5281/zenodo.14017594)
 
+**#22 [`Presentation`] [`Conference Paper`] Wikibase instances in the Cultural Heritage Domain: Examples from the German humanities NFDI consortia**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Lozana Rossenova - Olaf Simons
+* **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (04 November 2024)
+* **Session**: Cultural Heritage and the new future of new technologies
+* **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
+* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+
+**#23 [`Presentation`] [`Conference Paper`] Interdisciplinary Knowledge Graphs: Semantic Modelling using Linked Open Data, Wikibase and the Wikiverse**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Stefanie Baars - Angela Berthold - Fiona Schenk
+* **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (06 November 2024)
+* **Session**: Research Data Management in Cultural Heritage goes Digital
+* **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
+* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+
+**#24 [`Presentation`] [`Conference Paper`] Derivation of thesauri in archaeological conservation through synergistic collaboration between domain experts and the use of semantic and NLP technologies with a FAIR and open publication**
+* **Authors**: Lasse Mempel-Länger - Kristina Fella - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (06 November 2024)
+* **Session**: Research Data Management in Cultural Heritage goes Digital
+* **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
+* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+
 ### Issue 5
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
