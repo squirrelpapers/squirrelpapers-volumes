@@ -289,21 +289,21 @@
 * **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (04 November 2024)
 * **Session**: Cultural Heritage and the new future of new technologies
 * **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
-* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+* **DOI**: [10.5281/zenodo.14055699](https://doi.org/10.5281/zenodo.14055699)
 
 **#23 [`Presentation`] [`Conference Paper`] Interdisciplinary Knowledge Graphs: Semantic Modelling using Linked Open Data, Wikibase and the Wikiverse**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Stefanie Baars - Angela Berthold - Fiona Schenk
 * **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (06 November 2024)
 * **Session**: Research Data Management in Cultural Heritage goes Digital
 * **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
-* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+* **DOI**: [10.5281/zenodo.14055805](https://doi.org/10.5281/zenodo.14055805)
 
 **#24 [`Presentation`] [`Conference Paper`] Derivation of thesauri in archaeological conservation through synergistic collaboration between domain experts and the use of semantic and NLP technologies with a FAIR and open publication**
 * **Authors**: Lasse Mempel-Länger - Kristina Fella - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
 * **Event**: Conference on Cultral Heritage and New Technologies (CHNT29), Vienna, Austria (06 November 2024)
 * **Session**: Research Data Management in Cultural Heritage goes Digital
 * **Location**: Vienna City Hall, Wappensaal, Vienna, Austria
-* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+* **DOI**: [10.5281/zenodo.14055856](https://doi.org/10.5281/zenodo.14055856)
 
 ### Issue 5
 
