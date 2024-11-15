@@ -314,7 +314,7 @@
 **#26 [`Presentation`] [`Conference Paper`] Research Software Engineering within the NFDI (INFRA-WG-RSE)**
 * **Authors**: Bernd Flemisch - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Martin Hammitzsch
 * **Event**: 1st Base4NFDI User Conference (UC4B2024), Berlin, Germany (20 November 2024)
-* **Session**: urther Fields
+* **Session**: Further Fields
 * **Location**: Fraunhofer FOKUS – Fraunhofer Institute for Open Communication Systems, Berlin, Germany
 * **DOI**: [10.5281/zenodo.14167106](https://doi.org/10.5281/zenodo.14167106)
 
