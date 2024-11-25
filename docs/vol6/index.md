@@ -24,6 +24,12 @@
 * **Location**: Wikimedia Deutschland e.V., Berlin, Germany
 * **Link**: [File:Netzwerktreffen_Offene_Kulturdaten_2024_Thiery.pdf](https://commons.wikimedia.org/wiki/File:Netzwerktreffen_Offene_Kulturdaten_2024_Thiery.pdf)
 
+**#2 [`Presentation`] Georeferenzierung und Mapping innerhalb des Wikiversums - WikiProject Irish Ogham Stones**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: kuwiki: tips&tools, #15 Georeferenzierung und Mapping mit Wikimedia (28 November 2024)
+* **Location**: Online
+* **DOI**: [10.5281/zenodo.14217957](https://doi.org/10.5281/zenodo.14217957)
+
 ### Issue 2
 
 *Special Issue on data and software*
