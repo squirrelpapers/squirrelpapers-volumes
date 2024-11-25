@@ -77,42 +77,42 @@
 
 *Special Issue on conferences and talks*
 
-**#1 [`Presentation`] 3D and Research Data Management (RDM): Examples for semantic 3D annotation/modelling in the data qualification process in the NFDI consortia NFDI4Objects (N4O) and NFDI4Culture (N4C)**
+**#1 [`Presentation`] [`Conference Paper`] 3D and Research Data Management (RDM): Examples for semantic 3D annotation/modelling in the data qualification process in the NFDI consortia NFDI4Objects (N4O) and NFDI4Culture (N4C)**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-5190-1867) L. Rossenova; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-9043-3632) Z. Schubert
 * **Event**: Oldenburger 3D-Tage (31. January - 01. February 2024)
 * **Session**: Kulturerbe
 * **Location**: Jade-Hoschschule, Oldenburg
 * **DOI**: [10.5281/zenodo.10580308](https://doi.org/10.5281/zenodo.10580308)
 
-**#2 [`Presentation`] Research Software Engineering in NFDI4Objects: Community building, implementation of FAIRification Tools and scripting in Computational Archaeology**
+**#2 [`Presentation`] [`Conference Paper`] Research Software Engineering in NFDI4Objects: Community building, implementation of FAIRification Tools and scripting in Computational Archaeology**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4889-9353) L. Schubert; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: RSE in Digital Humanities
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10774878](https://doi.org/10.5281/zenodo.10774878)
 
-**#3 [`Poster`] FOSS N4O Management Hub: Using RSE skills and Open Source Software to propose a heterogenious Management Hub in NFDI4Objects**
+**#3 [`Poster`] [`Conference Paper`] FOSS N4O Management Hub: Using RSE skills and Open Source Software to propose a heterogenious Management Hub in NFDI4Objects**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-3223-2079) F. Fricke
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: Poster Session
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10756823](https://doi.org/10.5281/zenodo.10756823)
 
-**#4 [`Poster`] Research Software Engineering within the NFDI (INFRA-WG-RSE)**
+**#4 [`Poster`] [`Conference Paper`] Research Software Engineering within the NFDI (INFRA-WG-RSE)**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0001-8188-620X) B. Flemisch; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: Poster Session
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10805071](https://doi.org/10.5281/zenodo.10805071)
 
-**#5 [`Presentation`] The SPARQL Unicorn: A Research Tool for Linked Open Data in QGIS and git-action-based ontology documentation**
+**#5 [`Presentation`] [`Conference Paper`] The SPARQL Unicorn: A Research Tool for Linked Open Data in QGIS and git-action-based ontology documentation**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
 * **Event**: deRSE2024 (05. - 07. March 2024)
 * **Session**: RSE in Digital Humanities
 * **Location**: Julius-Maximilians-Universität Würzburg
 * **DOI**: [10.5281/zenodo.10790939](https://doi.org/10.5281/zenodo.10790939)
 
-**#6 [`Presentation`] Modellierung von Fuzzyness & Wobbliness in Geodaten am Beispiel archäologischer und geowissenschaftlicher Fundorte**
+**#6 [`Presentation`] [`Conference Paper`] Modellierung von Fuzzyness & Wobbliness in Geodaten am Beispiel archäologischer und geowissenschaftlicher Fundorte**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; F. Schenk; S. Baars; K. Tolle; P. Thiery
 * **Event**: FOSSGIS 2024 (20-23 March 2024)
 * **Session**: Daten, Datenbanken und Datenprozessierung
@@ -120,7 +120,7 @@
 * **DOI**: [10.5281/zenodo.10840999](https://doi.org/10.5281/zenodo.10840999)
 * **Video**: [media.ccc](https://media.ccc.de/v/fossgis2024-38914-modellierung-von-fuzzyness-wobbliness-in-geodaten)
 
-**#7 [`Presentation`] The SPARQL Unicorn Ontology documentation: Exposing RDF geodata using static GeoAPIs**
+**#7 [`Presentation`] [`Conference Paper`] The SPARQL Unicorn Ontology documentation: Exposing RDF geodata using static GeoAPIs**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
 * **Event**: FOSSGIS 2024 (20-23 March 2024)
 * **Session**: Daten, Datenbanken und Datenprozessierung
@@ -332,21 +332,21 @@
 
 *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
 
-**#1 [`Presentation`] Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources**
+**#1 [`Presentation`] [`Conference Paper`] Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - Nora White - Megan Kasten - Anne-Karoline Distel
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
 * **Location**: University College Cork (UCC), Cork, Ireland
 * **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
 
-**#2 [`Presentation`] OG(H)AM in 3D-Digitisation, digital epigraphy and crosssector collaboration in the study of ogham**
+**#2 [`Presentation`] [`Conference Paper`] OG(H)AM in 3D-Digitisation, digital epigraphy and crosssector collaboration in the study of ogham**
 * **Authors**: Nora White
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
 * **Location**: University College Cork (UCC), Cork, Ireland
 * **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
 
-**#3 [`Presentation`] OG(H)AM in 3D**
+**#3 [`Presentation`] [`Conference Paper`] OG(H)AM in 3D**
 * **Authors**: Megan Kasten
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
@@ -360,14 +360,14 @@
 * **Location**: University College Cork (UCC), Cork, Ireland
 * **DOI**: [10.5281/zenodo.TBD](https://doi.org/10.5281/zenodo.TBD)
 
-**#5 [`Presentation`] Og(h)am in Open Science Community Hubs and the Citizen Sciences - Wikidata**
+**#5 [`Presentation`] [`Conference Paper`] Og(h)am in Open Science Community Hubs and the Citizen Sciences - Wikidata**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery /w S.C. Schmidt, M. Trognitz, T. Homburg
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
 * **Location**: University College Cork (UCC), Cork, Ireland
 * **DOI**: [10.5281/zenodo.13364444](https://doi.org/10.5281/zenodo.13364444)
 
-**#6 [`Presentation`] Ogham stones on OpenStreetMap**
+**#6 [`Presentation`] [`Conference Paper`] Ogham stones on OpenStreetMap**
 * **Authors**: Anne-Karoline Distel
 * **Event**: UK-Ireland DH Association Annual Event 2024 (04-05 June 2024)
 * **Session**: 3A - Og(h)am from Ireland and the UK – Open Science and FAIR methods for early medieval epigraphic sources
