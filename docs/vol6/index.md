@@ -144,10 +144,24 @@
 
 **#10 [`Presentation`] [`Conference Paper`] Das Research Squirrel Engineers Network - Digitale Services zum digitalen Datenmanagement aus der Archäoinformatik- und Citizen Science-Community**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
-* **Event**: Verbandstagung 2024 des NWVA e.V. (07-11 Oktober 2024)
+* **Event**: Verbandstagung 2024 des NWVA e.V. (07-11 Oct 2024)
 * **Session**: Von der digital gestützten Ausgrabung zu digitalen Diensten in der Archäologie
 * **Location**: DBM Bochum, Germany
 * **DOI**: [10.5281/zenodo.13897231](https://doi.org/10.5281/zenodo.13897231)
+
+**#11 [`Presentation`] [`Conference Paper`] Infrastructural Frameworks: Managing and publishing distributed Archaeological Research Data through the Wikibase**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: ARCHEO.FOSS 18 (19-20 Dec 2024)
+* **Session**: Panel 1: Towards a Common Infrastructural Framework
+* **Location**: Aula Convegni CAST - Center for Advanced Studies and Technology Campus Universitario Chieti Scalo, Chieti, Italy
+* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
+
+**#12 [`Presentation`] [`Conference Paper`] Jupyter Python Minion: Empowering Open Data for Urban Archaeological Insights**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: ARCHEO.FOSS 18 (19-20 Dec 2024)
+* **Session**: Panel 6: Open Data for Urban Archaeological Potential Assessment
+* **Location**: Aula Convegni CAST - Center for Advanced Studies and Technology Campus Universitario Chieti Scalo, Chieti, Italy
+* **DOI**: [10.5281/zenodo.xxx](https://doi.org/10.5281/zenodo.xxx)
 
 ### Issue 4
 
