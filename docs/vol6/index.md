@@ -69,7 +69,7 @@
 * **Release**: [@v0.17.1](https://github.com/sparqlunicorn/sparqlunicornGoesGIS/releases/tag/v0.17.1)
 * **DOI**: [10.5281/zenodo.13828632](https://doi.org/10.5281/zenodo.13828632)
 
-**#6 [`Software`] SPARQLing Unicorn QGIS Plugin**
+**#6 [`Software`] Jupyter Notebooks and Linked Open Data**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
 * **Repository**: [jupyter-nb-lod](https://github.com/Research-Squirrel-Engineers/jupyter-nb-lod)
 
