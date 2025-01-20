@@ -14,6 +14,7 @@
 > * [Volume 4: 2022](#volume-4)
 > * [Volume 5: 2023](#volume-5)
 > * [Volume 6: 2024](#volume-6)
+> * [Volume 7: 2025](#volume-7)
 
 ## Volume 1
 
@@ -331,3 +332,11 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 > * [Issue 2](vol6#issue-2): *Special Issue on data and software*
 > * [Issue 3](vol6#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](vol6#issue-4): *Special Issue on NFDI related topics*
+> * [Issue 5](vol6#issue-5): *Special Issue on the UK-Ireland DH Association Annual Event 2024 at UCC*
+
+## [Volume 7](vol7)
+
+> * [Issue 1](vol7#issue-1)
+> * [Issue 2](vol7#issue-2): *Special Issue on data and software*
+> * [Issue 3](vol7#issue-3): *Special Issue on conferences and talks*
+> * [Issue 4](vol7#issue-4): *Special Issue on NFDI related topics*
