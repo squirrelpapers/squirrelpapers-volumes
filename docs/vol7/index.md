@@ -17,7 +17,7 @@
 
 ### Issue 1
 
-**#1 [`Presentation`] Fuzzyness & Wobbliness in Geodaten: Linked Open Data und Wikidata in der Praxis**
+**#1 [`Presentation`] Fuzzyness & Wobbliness in Geodaten: Linked Open Data und Wikibase in der Praxis**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
 * **Event**: Workshop Vagheiten und Unsicherheiten in Provenienzdaten (23 Jan 2025)
 * **Location**: Online
