@@ -27,6 +27,13 @@
 
 *Special Issue on data and software*
 
+**#1 [`Software`] SPARQLing Unicorn QGIS Plugin**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9499-5840) T. Homburg
+* **Version**: 0.17.2
+* **Repository**: [sparqlunicornGoesGIS](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
+* **Release**: [@v0.17.2](https://github.com/sparqlunicorn/sparqlunicornGoesGIS/releases/tag/v0.17.2)
+* **DOI**: [10.5281/zenodo.14874994](https://doi.org/10.5281/zenodo.14874994)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
