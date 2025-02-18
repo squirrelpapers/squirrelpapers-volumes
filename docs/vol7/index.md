@@ -52,6 +52,13 @@
 * **Location**: Jade-Hoschschule, Oldenburg
 * **DOI**: [10.5281/zenodo.14789264](https://doi.org/10.5281/zenodo.14789264)
 
+**λ3 [`Poster`] [`Conference Paper`] Research Squirrel Engineering Community-driven grassroots Research FAIRification Tools (RFAIRT) coded from Humanities and Geosciences**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - T. Homburg - F. Schenk
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Poster and Demo Session together with Reception
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14886032](https://doi.org/10.5281/zenodo.14886032)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
