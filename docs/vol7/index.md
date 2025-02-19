@@ -68,3 +68,9 @@
 * **Date**: 14.02.2025
 * **Type**: NFDI4Objects Temporary Working Group (TWG)
 * **DOI**: [10.5281/zenodo.14893826](https://doi.org/10.5281/zenodo.14893826)
+
+**λ2 [`Proposal`] NFDI4Objects TWG - N4O ObjectMetaDataSet (N4O OMDS) & N4O ObjectOntology (N4O OO)"**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - A. Gerber - F. Fricke
+* **Date**: 26.04.2024 / 14.02.2024
+* **Type**: NFDI4Objects Temporary Working Group (TWG)
+* **DOI**: [10.5281/zenodo.14893860](https://doi.org/10.5281/zenodo.14893860)
