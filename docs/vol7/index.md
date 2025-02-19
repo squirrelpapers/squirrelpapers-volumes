@@ -63,8 +63,8 @@
 
 *Special Issue on NFDI related topics*
 
-**λ1 [`Proposal`] NFDI4Objects - Community Cluster "Semantic Modelling & Linked Open Data"**
+**λ1 [`Proposal`] NFDI4Objects TWG - Community-Standards for modelling fuzziness & wobbliness in research data using Semantic Web technologies and formalisms (FuzzyWobblySW)"**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-9953-7638) K. Tolle - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342)
 * **Date**: 14.02.2025
 * **Type**: NFDI4Objects Temporary Working Group (TWG)
-* **DOI**: [10.5281/zenodo.14893827](https://doi.org/10.5281/zenodo.14893827)
+* **DOI**: [10.5281/zenodo.14893826](https://doi.org/10.5281/zenodo.14893826)
