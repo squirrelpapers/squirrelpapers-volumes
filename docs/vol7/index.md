@@ -34,6 +34,13 @@
 * **Release**: [@v0.17.2](https://github.com/sparqlunicorn/sparqlunicornGoesGIS/releases/tag/v0.17.2)
 * **DOI**: [10.5281/zenodo.14874994](https://doi.org/10.5281/zenodo.14874994)
 
+**λ2 [`Data`] GrapHNR2023 - Supplementary Material**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* **Version**: 1.0
+* **Repository**: [GrapHNR-2023-supplementary-material](https://github.com/leiza-scit/GrapHNR-2023-supplementary-material)
+* **Release**: [@v1.0](TODO)
+* **DOI**: [10.5281/zenodo.TODO](https://doi.org/10.5281/zenodo.TODO)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
