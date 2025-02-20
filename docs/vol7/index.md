@@ -59,6 +59,20 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14886032](https://doi.org/10.5281/zenodo.14886032)
 
+**λ4 [`Poster`] [`Conference Paper`] Keeping it REAL: Sustainability Challenges for Research Software in Computational Archaeology**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-4889-9353) L. K. Schubert - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Poster and Demo Session together with Reception
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14898291](https://doi.org/10.5281/zenodo.14886032)
+
+**λ5 [`Poster`] [`Conference Paper`] Research Software Engineering in the NFDI (INFRA-WG-RSE)**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - B. Flemisch
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Poster and Demo Session together with Reception
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14898391](https://doi.org/10.5281/zenodo.14898391)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
