@@ -95,3 +95,9 @@
 * **Date**: 26.04.2024 / 14.02.2024
 * **Type**: NFDI4Objects Temporary Working Group (TWG)
 * **DOI**: [10.5281/zenodo.14893860](https://doi.org/10.5281/zenodo.14893860)
+
+**λ3 [`Presentation`] Interdisziplinäre Knowledge Graphen? Ortsdaten im Kontext von NFDI4Objects**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - A. Gerber
+* **Event**: NFDI4Memory AG Minimaldatensatz Historische Orte (24 Feb 2025)
+* **Location**: Online
+* **Link**: [10.5281/zenodo.14916966](https://doi.org/10.5281/zenodo.14916966)
