@@ -80,6 +80,13 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14898391](https://doi.org/10.5281/zenodo.14898391)
 
+**λ6 [`Presentation`] [`Conference Paper`] Research Squirrel Engineers How an independent RSE-driven network may help the NFDI**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Nation-wide networks of RSEs
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14914287](https://doi.org/10.5281/zenodo.14914287)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
