@@ -94,6 +94,13 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14914309](https://doi.org/10.5281/zenodo.14914309)
 
+**λ8 [`Presentation`] [`Conference Paper`] How to improve the visibility and added value of RSE(s) in NFDI**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - B. Flemisch - J. Bernoth - C. Seiwerth - J. Linxweiler - L. Söhn
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Meet-Up
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14976365](https://doi.org/10.5281/zenodo.14976365)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
