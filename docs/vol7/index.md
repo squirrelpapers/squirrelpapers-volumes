@@ -101,6 +101,13 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14976365](https://doi.org/10.5281/zenodo.14976365)
 
+**λ9 [`Presentation`] [`Conference Paper`] Geodesist in the Humanities working with humanities people on Research Software and FAIRification Tools**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Meet-Up
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14920034](https://doi.org/10.5281/zenodo.14920034)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
