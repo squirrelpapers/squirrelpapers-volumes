@@ -87,6 +87,13 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14914287](https://doi.org/10.5281/zenodo.14914287)
 
+**λ7 [`Presentation`] [`Conference Paper`] Jupyter Python Minions - Simplifying SPARQL Queries and Visualisations for Archaeological Data**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - L.K. Schubert
+* **Event**: deRSE25 (25-27 Feb 2025)
+* **Session**: Visualization with Research Software
+* **Location**: KIT, Karlsruhe
+* **DOI**: [10.5281/zenodo.14914309](https://doi.org/10.5281/zenodo.14914309)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
