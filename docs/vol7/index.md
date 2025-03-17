@@ -24,7 +24,7 @@
 * **Link**: [10.5281/zenodo.14707872](https://doi.org/10.5281/zenodo.14707872)
 
 **λ2 [`Working Paper`] The Modelling Trinity: Space, Time and Actor**
-* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - M. thor Straten
 * **DOI**: [10.5281/zenodo.15039154](https://doi.org/10.5281/zenodo.15039154)
 
 ### Issue 2
