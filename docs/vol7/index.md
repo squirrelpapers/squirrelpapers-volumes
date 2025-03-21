@@ -133,3 +133,9 @@
 * **Event**: NFDI4Memory AG Minimaldatensatz Historische Orte (24 Feb 2025)
 * **Location**: Online
 * **Link**: [10.5281/zenodo.14916966](https://doi.org/10.5281/zenodo.14916966)
+
+**λ4 [`Presentation`] Wikibase Datenmodell v0.2**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery - A. Berthold
+* **Event**: TWG 2024.3 Prototypische Modellierung eines Provenienzgazetteers zur FAIRen Bereitstellung in einer Wikibase (20 Mar 2025)
+* **Location**: Online
+* **Link**: [10.5281/zenodo.15065874](https://doi.org/10.5281/zenodo.15065874)
