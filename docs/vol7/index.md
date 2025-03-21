@@ -112,6 +112,13 @@
 * **Location**: KIT, Karlsruhe
 * **DOI**: [10.5281/zenodo.14920034](https://doi.org/10.5281/zenodo.14920034)
 
+**λ10 [`Presentation`] [`Conference Paper`] Data-Driven Community Standards for Interdisciplinary Heterogeneous Information Networks**
+* **Authors**: M. thor Straten - S. Strohm - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - M. Renz
+* **Event**: E-Science-Tage 2025 (12-14 Mar 2025)
+* **Session**: B6: Information Networks
+* **Location**: Alte Universität Heidelberg
+* **DOI**: [10.5281/zenodo.15040308](https://doi.org/10.5281/zenodo.15040308)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
