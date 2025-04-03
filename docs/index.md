@@ -60,12 +60,19 @@
 
 ### 2019:(1)7 => SI: Conferences 2018
 
-**#1 [`Presentation`] RDF based modeling of relative and absolute chronological data: Examples from the central african rainforest and roman periodisation**
+**#1 [`Presentation`] [`Conference Paper`] RDF based modeling of relative and absolute chronological data: Examples from the central african rainforest and roman periodisation**
 * **Authors**: D. Seidensticker - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery  - A.W. Mees - C. Schmid
 * **Event**: 24th Annual Meeting of the European Association of Archaeologists (EAA2018)  (05-08 September 2018)
 * **Session**: 708: DATA-DRIVEN CHRONOLOGY
-* **Location**: Universidad de Barcelona, Spain
+* **Location**:Universidad de Barcelona, Spain
 * **DOI**: [10.5281/zenodo.1410516](https://doi.org/10.5281/zenodo.1410516)
+
+**#2 [`Presentation`] [`Conference Paper`] Taming the chronology of South Gaulish Samian found at Hadrian's Wall and the German Limes using Linked Open Data**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) - A.W. Mees
+* **Event**: UK Chapter of Computer Applications and Quantitative Methods in Archaeology (CAA-UK 2018) (26-27 October 2018)
+* **Session**: Main Hall
+* **Location**: Edinburgh, Scotland, UK
+* **DOI**: [10.5281/zenodo.1469298](https://doi.org/10.5281/zenodo.1469298)
 
 ## Volume 2
 
