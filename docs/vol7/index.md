@@ -131,6 +131,20 @@
 * **Location**: Alte Universität Heidelberg
 * **DOI**: [10.5281/zenodo.15040308](https://doi.org/10.5281/zenodo.15040308)
 
+**λ11 [`Presentation`] [`Conference Paper`] Taming the Space: Semantic Modelling using Linked Open Data of Fuzzy Wobbling Geospatial Data from the Archaeological and Geosciences domains**
+* **Authors**:[![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - Sophie C. Schmidt - Chiara G. M. Girotto - Fabian Fricke - Fiona Schenk - Stefanie Baars - Allard W. Mees
+* **Event**: CAA International (05-09 May 2025)
+* **Session**: S4: Hic sunt dracones! Semantics and archaeological Linked Open Data within the FAIRification process and Research Data Lifecycle along the Object Biography
+* **Location**: University of West Attica, Athens, Greece
+* **DOI**: [10.5281/zenodo.15332813](https://doi.org/10.5281/zenodo.15332813)
+
+**λ12 [`Presentation`] [`Conference Paper`] How do we integrate community data from Wikidata, FactGrid and the fuzzy-sl Wikibase into a cultural heritage knowledge graph? First examples using SPARQL Unicorns, CIDOC CRM and Linked Open Data**
+* **Authors**:D. Stefan - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - F. Schenk
+* **Event**: CAA International (05-09 May 2025)
+* **Session**: S4: Hic sunt dracones! Semantics and archaeological Linked Open Data within the FAIRification process and Research Data Lifecycle along the Object Biography
+* **Location**: University of West Attica, Athens, Greece
+* **DOI**: [10.5281/zenodo.15332827](https://doi.org/10.5281/zenodo.15332827)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
