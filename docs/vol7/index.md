@@ -39,6 +39,12 @@
 * **Location**: Online
 * **Link**: [10.5281/zenodo.15310723](https://doi.org/10.5281/zenodo.15310723)
 
+**λ5 [`Presentation`] LOD Objects in Action II: SPARQLing Unicorn Research Toolkit: Integrating geospatial LOD SPARQL queries for visualisations in QGIS**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **Event**: Text+ Show and Tell: Tools, Dienste, Projekte (15 May 2025)
+* **Location**: Online
+* **Link**: [10.5281/zenodo.15401536](https://doi.org/10.5281/zenodo.15401536)
+
 ### Issue 2
 
 *Special Issue on data and software*
