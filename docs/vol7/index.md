@@ -60,8 +60,15 @@
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
 * **Version**: 1.0
 * **Repository**: [GrapHNR-2023-supplementary-material](https://github.com/leiza-scit/GrapHNR-2023-supplementary-material)
-* **Release**: [@v1.0](TODO)
-* **DOI**: [10.5281/zenodo.TODO](https://doi.org/10.5281/zenodo.TODO)
+* **Release**: [@v1.0]([TODO](https://github.com/leiza-scit/GrapHNR-2023-supplementary-material/tree/v1.0))
+* **DOI**: [10.5281/zenodo.14906708](https://doi.org/10.5281/zenodo.14906708)
+
+**λ3 [`Data`] Linked Archaeological Data Ontology (LADO) - v1.1**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery; [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) A.W. Mees
+* **Version**: 1.1
+* **Repository**: [lado](https://github.com/archaeolink/lado/)
+* **Release**: [@v1.1](https://github.com/archaeolink/lado/releases/tag/v1.1)
+* **DOI**: [10.5281/zenodo.15477358](https://doi.org/10.5281/zenodo.15477358)
 
 ### Issue 3
 
