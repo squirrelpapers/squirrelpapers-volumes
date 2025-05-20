@@ -75,7 +75,7 @@
 * **Version**: 0.1
 * **Repository**: [archaeonatural-ontology](https://github.com/archaeonatural-cloud/archaeonatural-ontology)
 * **Release**: [@v0.1](https://github.com/archaeonatural-cloud/archaeonatural-ontology/tree/v0.1)
-* **DOI**: [10.5281/zenodo.15095412](https://doi.org/10.5281/zenodo.15095412)
+* **DOI**: [10.5281/zenodo.15095413](https://doi.org/10.5281/zenodo.15095413)
 
 ### Issue 3
 
