@@ -70,6 +70,13 @@
 * **Release**: [@v1.1](https://github.com/archaeolink/lado/releases/tag/v1.1)
 * **DOI**: [10.5281/zenodo.15477358](https://doi.org/10.5281/zenodo.15477358)
 
+**λ4 [`Data`] Archaeo-Natural Ontology (ArNO) - v0.1**
+* **Authors**: thor Straten, Mattis - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Version**: 0.1
+* **Repository**: [archaeonatural-ontology](https://github.com/archaeonatural-cloud/archaeonatural-ontology)
+* **Release**: [@v0.1](https://github.com/archaeonatural-cloud/archaeonatural-ontology/tree/v0.1)
+* **DOI**: [10.5281/zenodo.15095412](https://doi.org/10.5281/zenodo.15095412)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
