@@ -186,6 +186,13 @@
 * **Location**: University of West Attica, Athens, Greece
 * **DOI**: [10.5281/zenodo.15332927](https://doi.org/10.5281/zenodo.15332927)
 
+**λ16 [`Presentation`] [`Conference Paper`] Beyond Digital Boundaries - Linked Open Data and Wikidata with OG(H)AM and Holy Wells**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: UK-Ireland DH Association Annual Event 2025 (17-18 Jun 2025)
+* **Session**: Session 5B. Cultural Heritage beyond boundaries
+* **Location**: University of Glasgow, Glasgow, United Kingdom (Scotland)
+* **DOI**: [10.5281/zenodo.15667685](https://doi.org/10.5281/zenodo.15667685)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
