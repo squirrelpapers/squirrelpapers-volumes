@@ -200,6 +200,13 @@
 * **Location**: University of Glasgow, Glasgow, United Kingdom (Scotland)
 * **DOI**: [10.5281/zenodo.15721469](https://doi.org/10.5281/zenodo.15721469)
 
+**λ18 [`Presentation`] [`Conference Paper`] Cultural Heritage beyond boundaries - Open Science and FAIR methods for Ogham and Holy Wells in Ireland and the UK**
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - Nora White - Megan Kasten - A.-K. Distel
+* **Event**: UK-Ireland DH Association Annual Event 2025 (17-18 Jun 2025)
+* **Session**: Session 5B. Cultural Heritage beyond boundaries
+* **Location**: University of Glasgow, Glasgow, United Kingdom (Scotland)
+* **DOI**: [10.5281/zenodo.15721553](https://doi.org/10.5281/zenodo.15721553)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
