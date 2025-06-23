@@ -193,6 +193,13 @@
 * **Location**: University of Glasgow, Glasgow, United Kingdom (Scotland)
 * **DOI**: [10.5281/zenodo.15667685](https://doi.org/10.5281/zenodo.15667685)
 
+**λ17 [`Presentation`] [`Conference Paper`] A Holy Wells Database on Wikidata**
+* **Authors**: A.-K. Distel - [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: UK-Ireland DH Association Annual Event 2025 (17-18 Jun 2025)
+* **Session**: Session 5B. Cultural Heritage beyond boundaries
+* **Location**: University of Glasgow, Glasgow, United Kingdom (Scotland)
+* **DOI**: [10.5281/zenodo.15721469](https://doi.org/10.5281/zenodo.15721469)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
