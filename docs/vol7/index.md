@@ -44,6 +44,7 @@
 * **Event**: Text+ Show and Tell: Tools, Dienste, Projekte (15 May 2025)
 * **Location**: Online
 * **Link**: [10.5281/zenodo.15401536](https://doi.org/10.5281/zenodo.15401536)
+* **Youtube**: [https://youtu.be/j8hxYuqCVm4?si=BO5tWUY2rX2K5PJ2](https://youtu.be/j8hxYuqCVm4?si=BO5tWUY2rX2K5PJ2)
 
 ### Issue 2
 
