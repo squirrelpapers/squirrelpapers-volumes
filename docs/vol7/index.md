@@ -247,7 +247,7 @@
 
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
-**𝒬1 [`Conference Paper`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
+> **𝒬1 [`Conference Paper`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - LK Schubert, A Schneider, J Landauer, K Tolle, S Gampe, F Schenk and P Thiery
 * **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
 * **Session**: Humanities and Social Sciences (Session 1)
