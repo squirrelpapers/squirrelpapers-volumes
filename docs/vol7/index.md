@@ -14,7 +14,7 @@
 > * [Issue 2](#issue-2): *Special Issue on data and software*
 > * [Issue 3](#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](#issue-4): *Special Issue on NFDI related topics*
-> * [Issue CoRDI 2025](#issue-cordi-2025): *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
+> * [Issue 5](#issue-5): *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
 ### Issue 1
 
@@ -243,7 +243,7 @@
 * **Location**: Online
 * **Link**: [10.5281/zenodo.15065874](https://doi.org/10.5281/zenodo.15065874)
 
-### Issue CoRDI-2025
+### Issue 5
 
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
