@@ -259,7 +259,7 @@
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
 
-> **𝒬2 [`Conference Paper`] Distributed Research Data Knowledge Graphs<br> - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
+> **𝒬2 [`Conference Paper`] Distributed Research Data Knowledge Graphs - <br>Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
 
 > F. Thiery et al., ‘Distributed Research Data Knowledge Graphs - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬2. doi: 10.5281/zenodo.16736047. [[bibtex]](bibtex.md#𝒬2)
 
