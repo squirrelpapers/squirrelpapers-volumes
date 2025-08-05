@@ -323,10 +323,10 @@
 
 > K. Fischer and L. Mempel-Länger, ‘A Human- and Machine-Readable Thesaurus for the Conservation of Archaeological Heritage - Development, Technical Implementation and Application in digital space’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬7. doi: 10.5281/zenodo.16735267. [[bibtex]](bibtex.md#𝒬7)
 
-* **Authors**: K Fischer and L Mempel-Länger
-* **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
-* **Session**: Humanities and Social Sciences (Poster)
-* **Location**: RWTH Aachen, C.A.R.L., Aachen, Germany
-* **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
-* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
-* **DOI**: [10.5281/zenodo.16735267](https://doi.org/10.5281/zenodo.16735267)
+* **`Authors`**: K Fischer and L Mempel-Länger
+* **`Event`**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **`Session`**: Humanities and Social Sciences (Poster)
+* **`Location`**: RWTH Aachen, C.A.R.L., Aachen, Germany
+* **`Zenodo-Community`**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
+* **`Editors`**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
+* **`DOI`**: [10.5281/zenodo.16735267](https://doi.org/10.5281/zenodo.16735267)
