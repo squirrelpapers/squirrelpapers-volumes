@@ -243,7 +243,7 @@
 * **Location**: Online
 * **Link**: [10.5281/zenodo.15065874](https://doi.org/10.5281/zenodo.15065874)
 
-### Issue 5 - 2nd CoRDI
+### Issue CoRDI-2025
 
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
