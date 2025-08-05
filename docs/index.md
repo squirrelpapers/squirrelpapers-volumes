@@ -347,3 +347,4 @@ F. Thiery; A.W. Mees; J.B. Kiesling
 > * [Issue 2](vol7#issue-2): *Special Issue on data and software*
 > * [Issue 3](vol7#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](vol7#issue-4): *Special Issue on NFDI related topics*
+> * [Issue CoRDI 2025](#issue-cordi-2025): *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
