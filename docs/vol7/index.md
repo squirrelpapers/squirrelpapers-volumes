@@ -255,3 +255,4 @@
 * **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **DOI**: [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
+* **cite**: [sp_vol7_iss5_q1](bibtex.md#𝒬1)
