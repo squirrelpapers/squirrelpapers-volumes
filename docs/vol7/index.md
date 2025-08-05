@@ -248,6 +248,9 @@
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
 > **𝒬1 [`Conference Paper`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
+
+> F. Thiery et al., ‘RDM within Computational Archaeology: The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬1. doi: 10.5281/zenodo.16736089. [[bibtex]](bibtex.md#𝒬1)
+
 * **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - LK Schubert, A Schneider, J Landauer, K Tolle, S Gampe, F Schenk and P Thiery
 * **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
 * **Session**: Humanities and Social Sciences (Session 1)
@@ -255,4 +258,3 @@
 * **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **DOI**: [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
-* **cite**: F. Thiery et al., ‘RDM within Computational Archaeology: The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬1. doi: 10.5281/zenodo.16736089. [[bibtex]](bibtex.md#𝒬1)
