@@ -242,3 +242,9 @@
 * **Event**: TWG 2024.3 Prototypische Modellierung eines Provenienzgazetteers zur FAIRen Bereitstellung in einer Wikibase (20 Mar 2025)
 * **Location**: Online
 * **Link**: [10.5281/zenodo.15065874](https://doi.org/10.5281/zenodo.15065874)
+
+### Issue 5 - 2nd CoRDI
+
+*Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
+
+**`TBD`**
