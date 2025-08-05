@@ -14,6 +14,7 @@
 > * [Issue 2](#issue-2): *Special Issue on data and software*
 > * [Issue 3](#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](#issue-4): *Special Issue on NFDI related topics*
+> * [Issue 5 - 2nd CoRDI](#issue-5-2nd-cordi): *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
 ### Issue 1
 
