@@ -258,3 +258,39 @@
 * **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **DOI**: [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
+
+> **𝒬2 [`Conference Paper`] Distributed Research Data Knowledge Graphs<br> - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
+
+> F. Thiery et al., ‘Distributed Research Data Knowledge Graphs - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬2. doi: 10.5281/zenodo.16736047. [[bibtex]](bibtex.md#𝒬2)
+
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - L Rossenova, D Mietchen, T Homburg and P Thiery
+* **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **Session**: Humanities and Social Sciences (Session 2)
+* **Location**: RWTH Aachen, C.A.R.L., Aachen, Germany
+* **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
+* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
+* **DOI**: [10.5281/zenodo.16736047](https://doi.org/10.5281/zenodo.16736047)
+  
+> **𝒬3 [`Conference Paper`] Windows on Data: Federating Research Data with FAIR Digital Objects and Linked Open Data**
+
+> K. Fischer et al., ‘Windows on Data: Federating Research Data with FAIR Digital Objects and Linked Open Data’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬1. doi: 10.5281/zenodo.16736221. [[bibtex]](bibtex.md#𝒬3)
+
+* **Authors**: K Fischer, A Gerber, T Koprucki, A Noback, M Reidelbach, T Schrade and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **Session**: Impact of RDM
+* **Location**: RWTH Aachen, C.A.R.L., Aachen, Germany
+* **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
+* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
+* **DOI**: [10.5281/zenodo.16736221](https://doi.org/10.5281/zenodo.16736221)
+
+> **𝒬4 [`Conference Paper`] Towards Common Metadata For Research Software in the NFDI**
+
+> S. Ferenz et al., ‘Towards Common Metadata For Research Software in the NFDI’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬1. doi: 10.5281/zenodo.16735847. [[bibtex]](bibtex.md#𝒬4)
+
+* **Authors**: S Ferenz, LJ Castro, H Hajiabadi, M Löbe, U Stervbo, L Gan and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F Thiery
+* **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **Session**: RDM in Context (Session 2)
+* **Location**: RWTH Aachen, C.A.R.L., Aachen, Germany
+* **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
+* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
+* **DOI**: [10.5281/zenodo.16735847](https://doi.org/10.5281/zenodo.16735847)
