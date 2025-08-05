@@ -248,10 +248,10 @@
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
 **𝒬1 [`Conference Paper`] RDM within Computational Archaeology: The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
-* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - Lutz K. Schubert, Agnes Schneider, Jürgen Landauer, Karsten Tolle, Sebastian Gampe, Fiona Schenk and Peter Thiery
+* **Authors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - LK Schubert, A Schneider, J Landauer, K Tolle, S Gampe, F Schenk and P Thiery
 * **Event**: 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
 * **Session**: Humanities and Social Sciences (Session 1)
 * **Location**: RWTH Aachen, C.A.R.L., Aachen, Germany
 * **Zenodo-Community**: [cordi-2025](https://zenodo.org/communities/cordi-2025/)
-* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) Sure-Vetter, York and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Groth, Paul
+* **Editors**: [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **DOI**: [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
