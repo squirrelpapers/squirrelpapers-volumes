@@ -1,5 +1,23 @@
 # Volume 7
 
+## Issue 4
+
+### 4-λ5
+
+```bibtex
+@article{sp_vol7_iss4_l5,
+	title = {Brückenbau zwischen {LOD} und {RSE}: {Von} {CIDOC} {CRM} bis {Jupyter4NFDI} - {Ein} interdisziplinäres federated {Knowledge} {Graph} {Ecosystem}},
+	volume = {7},
+	doi = {10.5281/zenodo.16875678},
+	number = {4},
+	journal = {Squirrel Papers},
+	author = {Thiery, Florian},
+	month = oct,
+	year = {2025},
+	pages = {λ5},
+}
+```
+
 ## Issue 5
 
 ### 𝒬1
