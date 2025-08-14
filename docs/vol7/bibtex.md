@@ -6,7 +6,7 @@
 
 ```bibtex
 @article{sp_vol7_iss4_l5,
-	title = {Brückenbau zwischen {LOD} und {RSE}: {Von} {CIDOC} {CRM} bis {Jupyter4NFDI} - {Ein} interdisziplinäres federated {Knowledge} {Graph} {Ecosystem}},
+	title = {Brückenbau zwischen LOD und RSE: Von CIDOC CRM bis Jupyter4NFDI - Ein interdisziplinäres federated Knowledge Graph Ecosystem},
 	volume = {7},
 	doi = {10.5281/zenodo.16875678},
 	number = {4},
