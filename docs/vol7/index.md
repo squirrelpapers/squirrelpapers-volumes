@@ -243,6 +243,18 @@
 * **`Location`** Online
 * **`Link`** [10.5281/zenodo.15065874](https://doi.org/10.5281/zenodo.15065874)
 
+> **λ5 [`Conference Paper`] Brückenbau zwischen LOD und RSE: Von CIDOC CRM bis Jupyter4NFDI - Ein interdisziplinäres federated Knowledge Graph Ecosystem**
+
+> F. Thiery *et al.*, ‘Brückenbau zwischen LOD und RSE: Von CIDOC CRM bis Jupyter4NFDI - Ein interdisziplinäres federated Knowledge Graph Ecosystem’, *Squirrel Papers*, 2025, 7(4), λ5. doi: 10.5281/zenodo.16875678. [[bibtex]](bibtex.md#4-λ5)
+
+* **`Authors`**  [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **`Contributors`** LK Schubert, K Tolle, F Schenk and P Thiery
+* **`Event`** NFDI4Objects Community Meeting 2025 (30 Sep 2025 - 01 Oct 2025)
+* **`Session`** Marketplace
+* **`Location`** Deutsches Bergbau-Museum, Bochum, Germany
+* **`Zenodo-Community`** [nfdi4objects](https://zenodo.org/communities/nfdi4objects/)
+* **`DOI`** [10.5281/zenodo.16875678](https://doi.org/10.5281/zenodo.16875678)
+
 ### Issue 5
 
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
@@ -311,7 +323,7 @@
 
 > F. Thiery et al., ‘RSE 4 Research Data Infrastructures - The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬6. doi: 10.5281/zenodo.16736041. [[bibtex]](bibtex.md#𝒬6)
 
-* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, B Flemisch, B Hetényi, C Seiwerth, R Baum, J Bernoth, S Ferenz, J Linxweiler, M Reinhardt and L Schubert
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, B Flemisch, B Hetényi, C Seiwerth, R Baum, J Bernoth, S Ferenz, J Linxweiler, M Reinhardt and LK Schubert
 * **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
 * **`Session`** RDM Infrastructures
 * **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
