@@ -259,31 +259,31 @@
 
 *Special Issue on 2nd Conference on Research Data Infrastructure (CoRDI)*
 
-> **𝒬1 [`Conference Paper`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
+> **𝒬1 [`Conference Proceeding`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
 
 > F. Thiery et al., ‘RDM within Computational Archaeology: The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬1. doi: 10.5281/zenodo.16736089. [[bibtex]](bibtex.md#𝒬1)
 
 * **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, LK Schubert, A Schneider, J Landauer, K Tolle, S Gampe, F Schenk and P Thiery
 * **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
-* **`Session`** Humanities and Social Sciences (Session 1)
+* **`Session`** Humanities and Social Sciences: Machine-actionable data and tools for the humanities (Workflows and cross-domain tools)
 * **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
 * **`Zenodo-Community`** [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736089](https://doi.org/10.5281/zenodo.16736089)
 
-> **𝒬2 [`Conference Paper`] Distributed Research Data Knowledge Graphs - <br>Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
+> **𝒬2 [`Conference Proceeding`] Distributed Research Data Knowledge Graphs - <br>Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
 
 > F. Thiery et al., ‘Distributed Research Data Knowledge Graphs - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬2. doi: 10.5281/zenodo.16736047. [[bibtex]](bibtex.md#𝒬2)
 
 * **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, L Rossenova, D Mietchen, T Homburg and P Thiery
 * **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
-* **`Session`** Humanities and Social Sciences (Session 2)
+* **`Session`** Humanities and Social Sciences: Machine-actionable data and tools for the humanities (Semantic technologies and linked data)
 * **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
 * **`Zenodo-Community`** [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736047](https://doi.org/10.5281/zenodo.16736047)
   
-> **𝒬3 [`Conference Paper`] Windows on Data: Federating Research Data with FAIR Digital Objects and Linked Open Data**
+> **𝒬3 [`Conference Proceeding`] Windows on Data: Federating Research Data with FAIR Digital Objects and Linked Open Data**
 
 > K. Fischer et al., ‘Windows on Data: Federating Research Data with FAIR Digital Objects and Linked Open Data’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬3. doi: 10.5281/zenodo.16736221. [[bibtex]](bibtex.md#𝒬3)
 
@@ -295,7 +295,7 @@
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736221](https://doi.org/10.5281/zenodo.16736221)
 
-> **𝒬4 [`Conference Paper`] Towards Common Metadata For Research Software in the NFDI**
+> **𝒬4 [`Conference Proceeding`] Towards Common Metadata For Research Software in the NFDI**
 
 > S. Ferenz et al., ‘Towards Common Metadata For Research Software in the NFDI’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬4. doi: 10.5281/zenodo.16735847. [[bibtex]](bibtex.md#𝒬4)
 
@@ -307,7 +307,7 @@
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16735847](https://doi.org/10.5281/zenodo.16735847)
 
-> **𝒬5 [`Conference Paper`] How are NFDI consortia using Knowledge Graphs?<br>An overview of common functions and challenges by the Working Group “Knowledge Graphs”**
+> **𝒬5 [`Conference Proceeding`] How are NFDI consortia using Knowledge Graphs?<br>An overview of common functions and challenges by the Working Group “Knowledge Graphs”**
 
 > L. Rossenova et al., ‘How are NFDI consortia using Knowledge Graphs? An overview of common functions and challenges by the Working Group “Knowledge Graphs”’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬5. doi: 10.5281/zenodo.16736077. [[bibtex]](bibtex.md#𝒬5)
 
@@ -319,19 +319,19 @@
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736077](https://doi.org/10.5281/zenodo.16736077)
 
-> **𝒬6 [`Conference Paper`] RSE 4 Research Data Infrastructures<br>The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code**
+> **𝒬6 [`Conference Proceeding`] RSE 4 Research Data Infrastructures<br>The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code**
 
 > F. Thiery et al., ‘RSE 4 Research Data Infrastructures - The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬6. doi: 10.5281/zenodo.16736041. [[bibtex]](bibtex.md#𝒬6)
 
 * **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, B Flemisch, B Hetényi, C Seiwerth, R Baum, J Bernoth, S Ferenz, J Linxweiler, M Reinhardt and LK Schubert
 * **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
-* **`Session`** RDM Infrastructures
+* **`Session`** RDM Infrastructures: Assessment & People in RDM Infrastructures (People in RDM Infrastructure)
 * **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
 * **`Zenodo-Community`** [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16736041](https://doi.org/10.5281/zenodo.16736041)
 
-> **𝒬7 [`Conference Paper`] A Human- and Machine-Readable Thesaurus for the Conservation of Archaeological Heritage<br>Development, Technical Implementation and Application in digital space**
+> **𝒬7 [`Conference Proceeding`] A Human- and Machine-Readable Thesaurus for the Conservation of Archaeological Heritage<br>Development, Technical Implementation and Application in digital space**
 
 > K. Fischer and L. Mempel-Länger, ‘A Human- and Machine-Readable Thesaurus for the Conservation of Archaeological Heritage - Development, Technical Implementation and Application in digital space’, in Proceedings of the Conference on Research Data Infrastructure 2025, Y. Sure-Vetter and P. Groth, Eds., Aachen: Squirrel Papers, Aug. 2025, 7(5), 𝒬7. doi: 10.5281/zenodo.16735267. [[bibtex]](bibtex.md#𝒬7)
 
@@ -342,3 +342,35 @@
 * **`Zenodo-Community`** [cordi-2025](https://zenodo.org/communities/cordi-2025/)
 * **`Editors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-4522-1099) York Sure-Vetter and [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0003-0183-6910) Paul Groth
 * **`DOI`** [10.5281/zenodo.16735267](https://doi.org/10.5281/zenodo.16735267)
+
+> **𝒬8 [`Conference Paper`] [`Presentation`] RDM within Computational Archaeology:<br>The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code**
+
+> F. Thiery & LK. Schubert, ‘RDM within Computational Archaeology: The Role of RDM in Archaeological RSE for Data FAIRification while creating FAIR4RS Code’, *Squirrel Papers*, 2025, 7(5), 𝒬8. doi: 10.5281/zenodo.16931832. [[bibtex]](bibtex.md#𝒬8)
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, LK Schubert
+* **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **`Date`** 26 Aug 2025
+* **`Session`** Humanities and Social Sciences: Machine-actionable data and tools for the humanities (Workflows and cross-domain tools)
+* **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
+* **`DOI`** [10.5281/zenodo.16931832](https://doi.org/10.5281/zenodo.16931832)
+
+> **𝒬9 [`Conference Paper`] [`Presentation`] Distributed Research Data Knowledge Graphs - <br>Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem**
+
+> F. Thiery et al., ‘Distributed Research Data Knowledge Graphs - Challenges of federated queries using the Wikiverse and OpenStreetMap within the NFDI Knowledge Graph Ecosystem’, *Squirrel Papers*, 2025, 7(5), 𝒬9. doi: 10.5281/zenodo.16931907. [[bibtex]](bibtex.md#𝒬9)
+
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, L Rossenova, D Mietchen
+* **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **`Date`** 26 Aug 2025
+* **`Session`** Humanities and Social Sciences: Machine-actionable data and tools for the humanities (Semantic technologies and linked data)
+* **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
+* **`DOI`** [10.5281/zenodo.16931907](https://doi.org/10.5281/zenodo.16931907)
+
+> **𝒬10 [`Conference Paper`] [`Presentation`] RSE 4 Research Data Infrastructures<br>The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code**
+
+> F. Thiery & B. Flemisch, ‘RSE 4 Research Data Infrastructures - The Role of Research Software Engineers in creating FAIR Data with FAIR4RS Code’, *Squirrel Papers*, 2025, 7(5), 𝒬10. doi: 10.5281/zenodo.16931909. [[bibtex]](bibtex.md#𝒬10)
+
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery, B Flemisch
+* **`Event`** 2nd Conference on Research Data Infrastructure (CoRDI) 2025 (26-28 Aug 2025)
+* **`Date`** 28 Aug 2025
+* **`Session`** RDM Infrastructures: Assessment & People in RDM Infrastructures (People in RDM Infrastructure)
+* **`Location`** RWTH Aachen, C.A.R.L., Aachen, Germany
+* **`DOI`** [10.5281/zenodo.16931909](https://doi.org/10.5281/zenodo.16931909)
