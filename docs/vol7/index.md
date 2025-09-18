@@ -215,6 +215,13 @@
 * **`DOI`** [10.5281/zenodo.15721553](https://doi.org/10.5281/zenodo.15721553)
 * **`Youtube`** [https://youtu.be/j8hxYuqCVm4?si=BO5tWUY2rX2K5PJ2](https://youtu.be/j8hxYuqCVm4?si=BO5tWUY2rX2K5PJ2)
 
+**λ19 [`Presentation`] [`Conference Paper`] Vom Ogham-Stein zum FAIR/LO(U)D Digital Object Wie Gigha Brewing und der federated Knowledge Graph historische Artefakte lebendig machen**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **`Event`** CAA DE Workshop Köln 2025 (17-18 Sep 2025)
+* **`Session`** Session 1
+* **`Location`** Universität zu Köln, Köln, Deutschland
+* **`DOI`** [10.5281/zenodo.17150583](https://doi.org/10.5281/zenodo.17150583)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
