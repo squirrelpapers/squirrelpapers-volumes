@@ -222,6 +222,13 @@
 * **`Location`** Universität zu Köln, Köln, Deutschland
 * **`DOI`** [10.5281/zenodo.17150583](https://doi.org/10.5281/zenodo.17150583)
 
+**λ20 [`Presentation`] [`Conference Paper`] How to FAIRify Citizen Science? Using the Wikibase Ecosystem for Volunteered Cultural Heritage Information Systems**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **`Event`** 4. MediaWiki Users & Developer Conference (28-30 Oct 2025)
+* **`Session`** Knowledge Management for Public & Research Institutions
+* **`Location`** Leibnizhaus, Hannover, Germany
+* **`DOI`** [10.5281/zenodo.17475014](https://doi.org/10.5281/zenodo.17475014)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
