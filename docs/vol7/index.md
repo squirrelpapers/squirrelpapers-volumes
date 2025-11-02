@@ -84,6 +84,11 @@
 * **`Release`** [@v0.1](https://github.com/archaeonatural-cloud/archaeonatural-ontology/tree/v0.1)
 * **`DOI`** [10.5281/zenodo.15095413](https://doi.org/10.5281/zenodo.15095413)
 
+**λ5 [`Data`] FAIRyland**
+* **`Authors`** F. Thiery, B. Danthine, N. Alpino
+* **`Version`** 0.1
+* **`Repository`** [FAIRyland](https://github.com/Research-Squirrel-Engineers/FAIRyland)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
