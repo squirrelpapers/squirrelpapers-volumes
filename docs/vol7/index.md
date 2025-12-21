@@ -89,6 +89,11 @@
 * **`Version`** 0.1
 * **`Repository`** [FAIRyland](https://github.com/Research-Squirrel-Engineers/FAIRyland)
 
+**λ6 [`Software`] osm2lod**
+* **`Authors`** F. Thiery
+* **`Version`** 0.1
+* **`Repository`** [osm2lod](https://github.com/Research-Squirrel-Engineers/osm2lod/)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
