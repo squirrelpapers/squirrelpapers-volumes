@@ -37,6 +37,12 @@
 * **`Repository`** [leiza-rse/site-dating](https://github.com/leiza-rse/site-dating/)
 * **`Release`** [@v0.1](https://github.com/leiza-rse/site-dating/releases/tag/v0.1)
 
+**§3 [`Software`] Gradual Semantic Alignment for SKOS (GSAS)**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **`Version`** 0.1
+* **`Repository`** [Research-Squirrel-Engineers/GSAS](https://github.com/Research-Squirrel-Engineers/GSAS)
+* **`Release`** [@v0.1](https://github.com/Research-Squirrel-Engineers/GSAS/releases/tag/v0.1)
+
 ### Issue 3
 
 *Special Issue on conferences and talks*
