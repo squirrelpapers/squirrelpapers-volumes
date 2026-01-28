@@ -15,8 +15,16 @@
 > * [Volume 5: 2023](#volume-5)
 > * [Volume 6: 2024](#volume-6)
 > * [Volume 7: 2025](#volume-7)
+> * [Volume 8: 2026](#volume-8)
 
 ## Volumes
+
+## [Volume 8](vol8)
+
+> * [Issue 1](vol8#issue-1)
+> * [Issue 2](vol8#issue-2): *Special Issue on data and software*
+> * [Issue 3](vol8#issue-3): *Special Issue on conferences and talks*
+> * [Issue 4](vol8#issue-4): *Special Issue on NFDI related topics*
 
 ## [Volume 7](vol7)
 
