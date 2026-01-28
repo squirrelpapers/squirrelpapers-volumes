@@ -32,7 +32,7 @@
 * **`Release`** [@v0.1](https://github.com/Research-Squirrel-Engineers/samianresearch-stlpa/releases/tag/v0.1)
 
 **§2 [`Software`] Samian Site Dating**
-* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery | [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) Allard W. Mees
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery / [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-7634-5342) Allard W. Mees
 * **`Version`** 0.1
 * **`Repository`** [leiza-rse/site-dating](https://github.com/leiza-rse/site-dating/)
 * **`Release`** [@v0.1](https://github.com/leiza-rse/site-dating/releases/tag/v0.1)
