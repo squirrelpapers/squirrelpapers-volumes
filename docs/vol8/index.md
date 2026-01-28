@@ -48,6 +48,7 @@
 * **`Version`** 0.1
 * **`Repository`** [Research-Squirrel-Engineers/fdo-squirrel](https://github.com/Research-Squirrel-Engineers/fdo-squirrel)
 * **`Release`** [@v0.1](https://github.com/Research-Squirrel-Engineers/fdo-squirrel/releases/tag/v0.1)
+* **`DOI`** [10.5281/zenodo.18404885](https://doi.org/10.5281/zenodo.18404885)
 
 ### Issue 3
 
