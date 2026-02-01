@@ -14,6 +14,7 @@
 > * [Issue 2](#issue-2): *Special Issue on data and software*
 > * [Issue 3](#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](#issue-4): *Special Issue on NFDI related topics*
+> * [Issue 5](#issue-5): *Special Issue on FAIR Digital Objects*
 
 ### Issue 1
 
@@ -69,3 +70,17 @@
 ### Issue 4
 
 *Special Issue on NFDI related topics*
+
+### Issue 5
+
+*Special Issue on FAIR Digital Objects*
+
+**§1 [`FDO`] CHUIS/1**
+
+**§2 [`FDO`] GEARS/1**
+
+**§3 [`FDO`] Jupyter Notebooks for Wikidata and LOD resources (FAIR Digital Object)**
+
+**§4 [`FDO`] o3d-epidoc-extractor (FAIR Digital Object)**
+
+**§5 [`FDO`] ogham-analysis (FAIR Digital Object)**
