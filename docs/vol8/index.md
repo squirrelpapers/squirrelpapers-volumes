@@ -6,7 +6,7 @@
 > * Wikidata: Q89658875
 > * [squirrelpapers.net](https://squirrelpapers.net)
 
-## Volume 7
+## Volume 8
 
 ### Overview
 
@@ -17,9 +17,21 @@
 
 ### Issue 1
 
-**§1 [`Working Paper`] Spatio-Temporal-Lexical Place Alignment**
+**§1 [`Methodological Working Paper`] From Tables to Gazetteers: Reproducible Place Alignment for Archaeological Data with STL-PA**
 * **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
-* **`Link`** [10.5281/zenodo.LoremIpsum](https://doi.org/10.5281/zenodo.LoremIpsum)
+* **`DOI`** [10.5281/zenodo.18441772](https://doi.org/10.5281/zenodo.18441772)
+
+**§2 [`Methodological Working Paper`] Gradual Semantic Alignment for SKOS: Quantifying Mapping Strength in Knowledge Graph Infrastructures**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **`DOI`** [10.5281/zenodo.18441001](https://doi.org/10.5281/zenodo.18441001)
+
+**§3 [`Position Paper`] Bridging FDOs and Knowledge Graphs | Position Paper**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery / A. Noback / F. Schenk / M.N. Kasten
+* **`DOI`** [10.5281/zenodo.18441544](https://doi.org/10.5281/zenodo.18441544)
+
+**§4 [`Methodological Working Paper`] From Packaged Research Artefacts to RDF: A Reference Implementation for FAIR Digital Objects into the Federated Knowledge Graph Ecosystem**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) Florian Thiery
+* **`DOI`** [10.5281/zenodo.18441772](https://doi.org/10.5281/zenodo.18441772)
 
 ### Issue 2
 
