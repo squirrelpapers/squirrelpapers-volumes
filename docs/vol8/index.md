@@ -95,6 +95,13 @@
 * **`Location`** University of Stuttgart, Stuttgart
 * **`DOI`** [10.5281/zenodo.18803727](https://doi.org/10.5281/zenodo.18803727)
 
+**§5 [`Poster`] [`Conference Paper`] RSE across the NFDI - Connecting Infrastructure and Community through FAIR4RS Practice**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - B. Flemisch
+* **`Event`** deRSE26 (03-05 Mar 2026)
+* **`Session`** Poster and Demo Session
+* **`Location`** University of Stuttgart, Stuttgart
+* **`DOI`** [10.5281/zenodo.18803954](https://doi.org/10.5281/zenodo.18803954)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
