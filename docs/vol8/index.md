@@ -67,6 +67,27 @@
 
 *Special Issue on conferences and talks*
 
+**§1 [`Presentation`] [`Conference Paper`] Cultural Heritage als FAIR Digital Object? 3D-Erfassung und semantische Vernetzung von Kulturerbe in Irland und Schottland**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - M. N. Kasten - A.-K. Distel - P. Thiery
+* **`Event`** Oldenburger 3D-Tage (25-26 Feb 2026)
+* **`Session`** AG3D
+* **`Location`** Hochschule für Technik und Wirtschaft, Dresden
+* **`DOI`** [10.5281/zenodo.18726192](https://doi.org/10.5281/zenodo.18726192)
+
+**§2 [`Presentation`] [`Conference Paper`] Von der Hosentasche in den Wissensgraph: Smartphone-3D als FAIR Digital Object in der SquirrelBase**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery
+* **`Event`** Oldenburger 3D-Tage (25-26 Feb 2026)
+* **`Session`** AG3D
+* **`Location`** Hochschule für Technik und Wirtschaft, Dresden
+* **`DOI`** [10.5281/zenodo.18726246](https://doi.org/10.5281/zenodo.18726246)
+
+**§3 [`Poster`] [`Conference Paper`] Semantic Modelling and Performance of (Geo-)Spatial Information in Knowledge Graphs and Heterogeneous Information Networks**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - M. thor Straten - S. Strohm - M. Renz
+* **`Event`** deRSE26 (03-05 Mar 2026)
+* **`Session`** Poster and Demo Session
+* **`Location`** University of Stuttgart, Stuttgart
+* **`DOI`** [10.5281/zenodo.18803485](https://doi.org/10.5281/zenodo.18803485)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
