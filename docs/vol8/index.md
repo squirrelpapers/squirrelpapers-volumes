@@ -102,6 +102,13 @@
 * **`Location`** University of Stuttgart, Stuttgart
 * **`DOI`** [10.5281/zenodo.18803954](https://doi.org/10.5281/zenodo.18803954)
 
+**§6 [`Talk`] [`Conference Paper`] chublets.software – Building a FAIR Software Marketplace for Cultural Heritage**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - L.K. Schubert
+* **`Event`** deRSE26 (03-05 Mar 2026)
+* **`Session`** Digital Humanities
+* **`Location`** University of Stuttgart, Stuttgart
+* **`DOI`** [10.5281/zenodo.18826868](https://doi.org/10.5281/zenodo.18826868)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
