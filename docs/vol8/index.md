@@ -63,10 +63,12 @@
 * **`Release`** [@v0.1](https://github.com/Research-Squirrel-Engineers/fdo-squirrel/releases/tag/v0.1)
 * **`DOI`** [10.5281/zenodo.18404885](https://doi.org/10.5281/zenodo.18404885)
 
-**§5 [`Data`] FAIRyland**
+**§5 [`Data`] FAIRyland: A playful dataset for teaching Linked Open Data in archaeology**
 * **`Authors`** F. Thiery, B. Danthine, N. Alpino
 * **`Version`** 0.2
 * **`Repository`** [FAIRyland](https://github.com/Research-Squirrel-Engineers/FAIRyland)
+* **`Release`** [@v0.2](https://github.com/Research-Squirrel-Engineers/FAIRyland/releases/tag/v0.2)
+* **`DOI`** [10.5281/zenodo.18901448](https://doi.org/10.5281/zenodo.18901448)
 
 ### Issue 3
 
