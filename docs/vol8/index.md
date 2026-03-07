@@ -109,6 +109,20 @@
 * **`Location`** University of Stuttgart, Stuttgart
 * **`DOI`** [10.5281/zenodo.18826868](https://doi.org/10.5281/zenodo.18826868)
 
+**§7 [`Poster`] [`Conference Paper`] Counting in Clay: Linking Cuneiform Mathematics and Cultural Heritage in 𒉿𒆠𒁕𒋫**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - et al.
+* **`Event`** CAA International 2026 (31 Mar–04 Apr 2026)
+* **`Session`** S54: Poster Session
+* **`Location`** University of Vienna, Austria
+* **`DOI`** [10.5281/zenodo.18901062](https://doi.org/10.5281/zenodo.18901062)
+
+**§8 [`Poster`] [`Conference Paper`] Cultural Heritage in FAIRyland? How to LODify GeoData in QGIS**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - B. Danthine - N. Alpino
+* **`Event`** CAA International 2026 (31 Mar–04 Apr 2026)
+* **`Session`** S54: Poster Session
+* **`Location`** University of Vienna, Austria
+* **`DOI`** [10.5281/zenodo.18901176](https://doi.org/10.5281/zenodo.18901176)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
