@@ -130,6 +130,13 @@
 * **`Location`** University of Vienna, Austria
 * **`DOI`** [10.5281/zenodo.18901176](https://doi.org/10.5281/zenodo.18901176)
 
+**§8 [`Poster`] [`Conference Paper`] ![Lang](https://img.shields.io/badge/LANGUAGE-German-red) Von OpenStreetMap zu semantisch vernetzten Wissensgraphen: Integration von Community-Geodaten in das Federated Knowledge Graph Ecosystem**
+* **`Authors`** [![ORCID ID](http://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](http://orcid.org/0000-0002-3246-3531) F. Thiery - F. Schenk - P. Thiery
+* **`Event`** FOSSGIS-Konferenz 2026 (25-28 Mar 2026)
+* **`Session`** Daten, Datenbanken und Datenprozessierung
+* **`Location`** Georg-August-Universität Göttingen, Germany
+* **`DOI`** [10.5281/zenodo.19200628](https://doi.org/10.5281/zenodo.19200628)
+
 ### Issue 4
 
 *Special Issue on NFDI related topics*
