@@ -15,6 +15,7 @@
 > * [Issue 3](#issue-3): *Special Issue on conferences and talks*
 > * [Issue 4](#issue-4): *Special Issue on NFDI related topics*
 > * [Issue 5](#issue-5): *Special Issue on FAIR Digital Objects*
+> * [Issue 6](#issue-6): *Special Issue on Open Educational Resources*
 
 ### Issue 1
 
