@@ -154,3 +154,7 @@
 **§4 [`FDO`] o3d-epidoc-extractor (FAIR Digital Object)**
 
 **§5 [`FDO`] ogham-analysis (FAIR Digital Object)**
+
+### Issue 6
+
+*Special Issue on Open Educational Resources*
